@@ -1,0 +1,527 @@
+[
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-census-acs-housing.csv",
+    "bytes": 18295,
+    "modified": "2026-08-26T15:43:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-census-acs-housing.parquet",
+    "bytes": 3037540,
+    "modified": "2026-08-26T15:43:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-buildings.parquet",
+    "bytes": 130554079,
+    "modified": "2026-08-26T15:43:42.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-infrastructure.parquet",
+    "bytes": 309977,
+    "modified": "2026-08-26T15:43:46.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-pois.parquet",
+    "bytes": 16168720,
+    "modified": "2026-08-26T15:43:47.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-rail.parquet",
+    "bytes": 1068289,
+    "modified": "2026-08-26T15:43:47.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-roads-unfiltered.parquet",
+    "bytes": 157211249,
+    "modified": "2026-08-26T15:43:46.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-roads.parquet",
+    "bytes": 43515963,
+    "modified": "2026-08-26T15:43:50.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-sample-submission.csv",
+    "bytes": 16608,
+    "modified": "2026-08-26T15:43:52.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-census-acs-housing.csv",
+    "bytes": 12847,
+    "modified": "2026-09-25T20:44:15.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-census-acs-housing.parquet",
+    "bytes": 2532145,
+    "modified": "2026-09-25T20:44:15.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-buildings.parquet",
+    "bytes": 125351011,
+    "modified": "2026-09-25T20:43:54.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-infrastructure.parquet",
+    "bytes": 345091,
+    "modified": "2026-09-25T20:44:12.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-pois.parquet",
+    "bytes": 10761396,
+    "modified": "2026-09-25T20:44:13.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-rail.parquet",
+    "bytes": 1399171,
+    "modified": "2026-09-25T20:44:11.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-roads-unfiltered.parquet",
+    "bytes": 116325606,
+    "modified": "2026-09-25T20:44:05.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-roads.parquet",
+    "bytes": 31401139,
+    "modified": "2026-09-25T20:44:03.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-sample-submission.csv",
+    "bytes": 11680,
+    "modified": "2026-09-25T20:44:16.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-carbonplan-tract-table.csv",
+    "bytes": 208418,
+    "modified": "2026-08-26T15:41:36.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-carbonplan-tract-table.parquet",
+    "bytes": 109585,
+    "modified": "2026-08-26T15:41:36.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-cdc-wonder-tract-table.csv",
+    "bytes": 456020,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-cdc-wonder-tract-table.parquet",
+    "bytes": 95858,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-aiannh.parquet",
+    "bytes": 100413,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-tracts.parquet",
+    "bytes": 4762054,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-tribal-subdivisions.parquet",
+    "bytes": 20847,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-tribal-tracts.parquet",
+    "bytes": 96482,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-cvi-tract-table.csv",
+    "bytes": 136420,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-cvi-tract-table.parquet",
+    "bytes": 67138,
+    "modified": "2026-08-26T15:41:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-drought-gov-tract-table.csv",
+    "bytes": 1760396,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-drought-gov-tract-table.parquet",
+    "bytes": 718685,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-epht-heat-tract-table.csv",
+    "bytes": 154206,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-epht-heat-tract-table.parquet",
+    "bytes": 40991,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-fpa-fod-tract-table.csv",
+    "bytes": 116203,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-fpa-fod-tract-table.parquet",
+    "bytes": 63599,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-mtbs-tract-table.csv",
+    "bytes": 128289,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-mtbs-tract-table.parquet",
+    "bytes": 45755,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nasa-heat-tract-table.csv",
+    "bytes": 677345,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nasa-heat-tract-table.parquet",
+    "bytes": 274678,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nchs-tract-table.csv",
+    "bytes": 33821,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nchs-tract-table.parquet",
+    "bytes": 9140,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nifc-tract-table.csv",
+    "bytes": 152940,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-nifc-tract-table.parquet",
+    "bytes": 56037,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-noaa-ghcn-stations.csv",
+    "bytes": 115083,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-noaa-ghcn-stations.parquet",
+    "bytes": 63167,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-noaa-ghcn-tract-table.csv",
+    "bytes": 93314,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-noaa-ghcn-tract-table.parquet",
+    "bytes": 46350,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-ruca-tract-table.csv",
+    "bytes": 41330,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-ruca-tract-table.parquet",
+    "bytes": 19102,
+    "modified": "2026-08-26T15:41:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-rucc-tract-table.csv",
+    "bytes": 62292,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-rucc-tract-table.parquet",
+    "bytes": 9223,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-strata-tract-table.csv",
+    "bytes": 1471003,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-strata-tract-table.parquet",
+    "bytes": 354711,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-svi-tract-table.csv",
+    "bytes": 41175,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-svi-tract-table.parquet",
+    "bytes": 35273,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-tribal-tract-table.csv",
+    "bytes": 49099,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-tribal-tract-table.parquet",
+    "bytes": 18656,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usdm-drought-tract-table.csv",
+    "bytes": 332783,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usdm-drought-tract-table.parquet",
+    "bytes": 119200,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usfs-wildfire-tract-table.csv",
+    "bytes": 910504,
+    "modified": "2026-08-26T15:41:40.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usfs-wildfire-tract-table.parquet",
+    "bytes": 463026,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usgs-combined-tract-table.csv",
+    "bytes": 144455,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-usgs-combined-tract-table.parquet",
+    "bytes": 61861,
+    "modified": "2026-08-26T15:41:39.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-carbonplan-tract-table.csv",
+    "bytes": 147046,
+    "modified": "2026-09-25T20:44:17.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-carbonplan-tract-table.parquet",
+    "bytes": 83541,
+    "modified": "2026-09-25T20:44:18.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-cdc-wonder-tract-table.csv",
+    "bytes": 319731,
+    "modified": "2026-09-25T20:44:19.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-cdc-wonder-tract-table.parquet",
+    "bytes": 95499,
+    "modified": "2026-09-25T20:44:19.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-census-aiannh.parquet",
+    "bytes": 227719,
+    "modified": "2026-09-25T20:44:20.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-census-tracts.parquet",
+    "bytes": 3872070,
+    "modified": "2026-09-25T20:44:21.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-census-tribal-tracts.parquet",
+    "bytes": 310864,
+    "modified": "2026-09-25T20:44:22.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-cvi-tract-table.csv",
+    "bytes": 96559,
+    "modified": "2026-09-25T20:44:23.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-cvi-tract-table.parquet",
+    "bytes": 49063,
+    "modified": "2026-09-25T20:44:24.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-drought-gov-tract-table.csv",
+    "bytes": 1234965,
+    "modified": "2026-09-25T20:44:25.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-drought-gov-tract-table.parquet",
+    "bytes": 551704,
+    "modified": "2026-09-25T20:44:26.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-epht-heat-tract-table.csv",
+    "bytes": 107476,
+    "modified": "2026-09-25T20:44:27.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-epht-heat-tract-table.parquet",
+    "bytes": 36937,
+    "modified": "2026-09-25T20:44:27.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-fpa-fod-tract-table.csv",
+    "bytes": 71319,
+    "modified": "2026-09-25T20:44:28.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-fpa-fod-tract-table.parquet",
+    "bytes": 47112,
+    "modified": "2026-09-25T20:44:28.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-mtbs-tract-table.csv",
+    "bytes": 96738,
+    "modified": "2026-09-25T20:44:29.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-mtbs-tract-table.parquet",
+    "bytes": 44711,
+    "modified": "2026-09-25T20:44:30.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nasa-heat-tract-table.csv",
+    "bytes": 332256,
+    "modified": "2026-09-25T20:44:31.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nasa-heat-tract-table.parquet",
+    "bytes": 161122,
+    "modified": "2026-09-25T20:44:31.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nchs-tract-table.csv",
+    "bytes": 22324,
+    "modified": "2026-09-25T20:44:32.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nchs-tract-table.parquet",
+    "bytes": 8081,
+    "modified": "2026-09-25T20:44:32.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nifc-tract-table.csv",
+    "bytes": 112568,
+    "modified": "2026-09-25T20:44:33.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-nifc-tract-table.parquet",
+    "bytes": 49860,
+    "modified": "2026-09-25T20:44:33.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-noaa-ghcn-stations.csv",
+    "bytes": 113161,
+    "modified": "2026-09-25T20:44:34.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-noaa-ghcn-stations.parquet",
+    "bytes": 62429,
+    "modified": "2026-09-25T20:44:35.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-noaa-ghcn-tract-table.csv",
+    "bytes": 65052,
+    "modified": "2026-09-25T20:44:36.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-noaa-ghcn-tract-table.parquet",
+    "bytes": 38019,
+    "modified": "2026-09-25T20:44:36.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-ruca-tract-table.csv",
+    "bytes": 29072,
+    "modified": "2026-09-25T20:44:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-ruca-tract-table.parquet",
+    "bytes": 15695,
+    "modified": "2026-09-25T20:44:37.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-rucc-tract-table.csv",
+    "bytes": 45034,
+    "modified": "2026-09-25T20:44:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-rucc-tract-table.parquet",
+    "bytes": 8110,
+    "modified": "2026-09-25T20:44:38.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-strata-tract-table.csv",
+    "bytes": 1008248,
+    "modified": "2026-09-25T20:44:40.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-strata-tract-table.parquet",
+    "bytes": 266685,
+    "modified": "2026-09-25T20:44:40.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-svi-tract-table.csv",
+    "bytes": 28878,
+    "modified": "2026-09-25T20:44:41.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-svi-tract-table.parquet",
+    "bytes": 27016,
+    "modified": "2026-09-25T20:44:41.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-tribal-tract-table.csv",
+    "bytes": 34216,
+    "modified": "2026-09-25T20:44:42.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-tribal-tract-table.parquet",
+    "bytes": 15822,
+    "modified": "2026-09-25T20:44:42.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usdm-drought-tract-table.csv",
+    "bytes": 255955,
+    "modified": "2026-09-25T20:44:43.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usdm-drought-tract-table.parquet",
+    "bytes": 116518,
+    "modified": "2026-09-25T20:44:44.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usfs-wildfire-tract-table.csv",
+    "bytes": 648342,
+    "modified": "2026-09-25T20:44:45.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usfs-wildfire-tract-table.parquet",
+    "bytes": 346144,
+    "modified": "2026-09-25T20:44:45.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usgs-combined-tract-table.csv",
+    "bytes": 102364,
+    "modified": "2026-09-25T20:44:46.000Z"
+  },
+  {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-usgs-combined-tract-table.parquet",
+    "bytes": 51470,
+    "modified": "2026-09-25T20:44:47.000Z"
+  }
+]

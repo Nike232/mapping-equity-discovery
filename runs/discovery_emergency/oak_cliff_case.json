@@ -1,0 +1,248 @@
+{
+  "a": {
+    "id": "2e36387b-2cd4-40c6-9e05-3cdc293d772d",
+    "name": "Oak Cliff Fire Protection District Station 1",
+    "category": "fire_department",
+    "confidence": 0.95,
+    "operating_status": "open",
+    "addresses": [
+      {
+        "freeform": "13425 S Bryant Ave",
+        "locality": "Edmond",
+        "postcode": "73034-8110",
+        "region": "OK",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      "14053409115"
+    ],
+    "websites": [
+      "oakclifffd.com"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "BrightQuery",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "99775508",
+        "update_time": "2026-08-13T13:23:42.875Z",
+        "confidence": 0.95,
+        "between": null,
+        "provider": "brightquery",
+        "resource": "brightquery",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "lon": -97.532898,
+    "lat": 35.7396423,
+    "GEOID": "40083600802",
+    "ur_class": "Rural",
+    "pop_total": 4415,
+    "svi_overall": 0.1996,
+    "usfs_BP_mean": 0.002043271274568582,
+    "region": "eastern-ok",
+    "tract_same_category_records": 1,
+    "minimum_tile_zoom": null,
+    "point_state": "OK",
+    "address_states": [
+      "OK"
+    ],
+    "address_state_mismatch": false,
+    "nearest_named_road_segments_in_window": [
+      {
+        "id": "a0109147-4e99-4b17-9acd-cf6ec44f4374",
+        "name": "West Simmons Road",
+        "class": "residential",
+        "metres": 53.553403295065756
+      },
+      {
+        "id": "128c150b-f126-4d09-b022-1f8a5c7d451e",
+        "name": "South Western Avenue",
+        "class": "unclassified",
+        "metres": 89.20198049942744
+      },
+      {
+        "id": "9ea117a6-b76c-4728-8cef-8821b8fb4f90",
+        "name": "South Western Avenue",
+        "class": "unclassified",
+        "metres": 104.56732342988795
+      },
+      {
+        "id": "5c85d6ec-c700-4f78-b8d7-513c74eb0c32",
+        "name": "South Western Avenue",
+        "class": "unclassified",
+        "metres": 180.61751320985016
+      },
+      {
+        "id": "ccaa3218-ea2f-47f8-9f26-1bd8debaf52c",
+        "name": "West Simmons Road",
+        "class": "residential",
+        "metres": 300.8431637363778
+      },
+      {
+        "id": "63927f89-5e60-4e6f-81b8-937402ff81b2",
+        "name": "Orchard Hill Drive",
+        "class": "residential",
+        "metres": 300.8431637363778
+      }
+    ],
+    "window_half_width_degrees": 0.004,
+    "same_category_before": 1,
+    "same_category_after_excluding_this_id": 0
+  },
+  "b": {
+    "id": "e4c428e3-3960-462f-97c4-0c020b226ac2",
+    "name": "Oak Cliff Fire Protection District Station 1",
+    "category": "fire_department",
+    "confidence": 0.9199122190475464,
+    "operating_status": "open",
+    "addresses": [
+      {
+        "freeform": "13425 S Bryant Ave",
+        "locality": "Edmond",
+        "postcode": "73034-8110",
+        "region": "OK",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      "+14053409115"
+    ],
+    "websites": [
+      "http://www.oakclifffd.com/"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "854733067898518",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.8228585124015808,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "22540ef9-ca36-4581-a1cd-4a95c613f55b",
+        "update_time": "2026-08-10T22:54:24Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-08-10"
+      }
+    ],
+    "lon": -97.46075018,
+    "lat": 35.73948008,
+    "GEOID": "40083600801",
+    "ur_class": "Urban",
+    "pop_total": 5582,
+    "svi_overall": 0.1573,
+    "usfs_BP_mean": 0.0015424865853366874,
+    "region": "eastern-ok",
+    "tract_same_category_records": 2,
+    "minimum_tile_zoom": null,
+    "point_state": "OK",
+    "address_states": [
+      "OK"
+    ],
+    "address_state_mismatch": false,
+    "nearest_named_road_segments_in_window": [
+      {
+        "id": "7a318a62-f663-4268-a193-d793ca322d2c",
+        "name": "South Bryant Road",
+        "class": "residential",
+        "metres": 24.21049098014763
+      },
+      {
+        "id": "6f04aa84-13d9-4832-a24c-0b59ac2cf66a",
+        "name": "West Simmons Road",
+        "class": "tertiary",
+        "metres": 49.42330192120248
+      },
+      {
+        "id": "31b90353-2253-4377-a6c5-ca44cfb6f637",
+        "name": "South Bryant Road",
+        "class": "residential",
+        "metres": 55.30694570030971
+      },
+      {
+        "id": "6424770d-c92c-49ce-bae6-376b7e845b82",
+        "name": "West Simmons Road",
+        "class": "tertiary",
+        "metres": 55.30694570030971
+      },
+      {
+        "id": "4cb8af9a-5b49-4680-a05a-760bc39b1854",
+        "name": "Round Leaf Road",
+        "class": "residential",
+        "metres": 77.08228311371083
+      },
+      {
+        "id": "7e25c11f-01f3-4a11-aab8-7e650850de3f",
+        "name": "Lakeview Drive",
+        "class": "residential",
+        "metres": 220.73639254669126
+      }
+    ],
+    "window_half_width_degrees": 0.004,
+    "same_category_before": 2,
+    "same_category_after_excluding_this_id": 1
+  },
+  "distance_km": 6.512,
+  "shared_phone": [
+    "4053409115"
+  ],
+  "shared_address": [
+    "13425sbryantave|73034"
+  ],
+  "review": {
+    "status": "Corroborated station-identity/coordinate conflict; rural point is the stronger suspect",
+    "identity_basis": "Same Station 1 name, 13425 S Bryant Ave address, postcode and phone in both supplied records",
+    "spatial_basis": "Rural point is beside Western/Simmons roads; urban comparator is beside South Bryant Road in the supplied Overture road layer",
+    "external_supplementary_citation": "https://oakclifffd.com/employment",
+    "citation_accessed": "2026-10-07",
+    "citation_use": "Current official page corroborates Station 1 identity, address and phone only. Copyrighted page is not redistributed or treated as an openly licensed dataset; quantitative and reproducible evidence uses the challenge package.",
+    "limitations": "Distances are supplied-point separation and point-to-supplied-road distances. No surveyed coordinate, address-number geocode, response time, service-area loss or harmed population is established. The fire case has no zoom<=18 grid flag."
+  },
+  "road_input": {
+    "key": "humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-overture-roads.parquet",
+    "bytes": 82239229,
+    "modified": "2026-08-26T15:43:07.000Z",
+    "path": "data/screening/reference/eastern-ok/eastern-ok-overture-roads.parquet",
+    "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-overture-roads.parquet",
+    "sha256": "b505ba2e4421c69c3ba68318714c0b9d5e359f11c47b04cad021d715c461ee7c"
+  },
+  "input_provenance": "runs/discovery_scope/provenance.json for POIs, tracts and allowed strata fields",
+  "licensing": "POI sources: CDLA-Permissive-2.0; Overture transportation: ODbL; challenge package: CC-BY-SA-4.0. Attribute Overture Maps Foundation and its sources including OpenStreetMap contributors, Humane Intelligence, Zindi and Radiant Earth."
+}

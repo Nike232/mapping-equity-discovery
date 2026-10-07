@@ -1,0 +1,12 @@
+{
+  "url": "https://www.fema.gov/about/website-information",
+  "accessed_on": "2026-10-07",
+  "method": "Read public page DOM in real browser after web fetch returned 403; sections Official FEMA Websites and Reuse and Copyright",
+  "visible_last_updated": "May 1, 2023",
+  "official_sites_list_includes": "U.S. Fire Administration",
+  "copyright_excerpt": "Most material on FEMA.gov is free of copyright and may be copied and distributed without permission.",
+  "restrictions_paraphrase": "Credited/licensed photos or graphics can be restricted and require original-owner permission. Government-work exceptions remain relevant. Do not imply agency endorsement.",
+  "application": "Official USFA registry CSV contains institutional factual attributes, with no copyright notice observed; selected record reproduced with source/date/FDID. No logos, photos, copyrighted third-party plans or NERIS contractor dataset are used.",
+  "basis_scope": "FEMA publication/reuse policy and actual official USFA download, rather than an assumption that every .gov file is public domain.",
+  "excluded": "NERIS Public Fire Departments has dataset-specific terms referring to department ownership, public-benefit uses and full platform terms; no station geometry was queried from it and it is excluded from the core."
+}

@@ -1,0 +1,1567 @@
+[
+  {
+    "label": "Moe & Gene Johnson High School",
+    "suspect": "2b483ffc-45d6-41a3-9e15-252141a28c15",
+    "comparators": [
+      "c19efedd-c59a-4d99-b92c-1d6af4d8fdf3"
+    ],
+    "identity_evidence": "same school identity and school phone; comparator is a school-associated FFA record at the official campus street address, not an independently surveyed campus point",
+    "official_url": "https://www.hayscisd.net/o/jhs",
+    "official_fact": "4260 FM 967, Buda TX 78610; 512-268-8512",
+    "caveat": "Suspect street text differs from official current address; comparator is a school-associated record.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Moe & Gene Johnson High School",
+      "category": "high_school",
+      "confidence": 0.9722161889076232,
+      "operating_status": "open",
+      "lon": -98.4375,
+      "lat": 27.059125784374,
+      "GEOID": "48047950100",
+      "ur_class": "Rural",
+      "pop_total": 2236,
+      "svi_covered": true,
+      "svi_overall": 0.9109,
+      "tribal_pct": 0.0,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0033428802628112,
+      "region": "south-central-tx",
+      "tract_school_records": 1,
+      "name_key": "moegenejohnsonhighschool",
+      "id": "2b483ffc-45d6-41a3-9e15-252141a28c15",
+      "addresses": [
+        {
+          "freeform": "967 Ruby Ranch Rd",
+          "locality": "Buda",
+          "postcode": "78610-3186",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.hayscisd.net/jhsopen"
+      ],
+      "phones": [
+        "+15122688512"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "382280792586085",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9620963931083679,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "11609dcc-3f6c-46ba-8d15-95c960bb5491",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "minimum_tile_zoom": 7
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "480001013567",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "MOE AND GENE JOHNSON H S",
+      "LSTREET1": "4260 RANCH RD 967",
+      "LCITY": "BUDA",
+      "LSTATE": "TX ",
+      "LZIP": "78610",
+      "PHONE": "(512) 268-8512",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 1,
+    "tract_school_records_after_reviewed_exclusion": 0,
+    "binary_school_label_presence_changes": true,
+    "nearest_remaining_school_label": {
+      "id": "e91e6409-8b49-426e-ac7e-3995328594dd",
+      "name": "Ramirez Elementary School",
+      "distance_km": 31.939,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Moe & Gene Johnson High School",
+        "category": "high_school",
+        "confidence": 0.9722161889076232,
+        "operating_status": "open",
+        "lon": -97.89206575,
+        "lat": 30.09934102,
+        "GEOID": "48209010912",
+        "ur_class": "Rural",
+        "pop_total": 8414,
+        "svi_covered": true,
+        "svi_overall": 0.0361,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0010442529602484,
+        "region": "south-central-tx",
+        "tract_school_records": 6,
+        "name_key": "moegenejohnsonhighschool",
+        "id": "c19efedd-c59a-4d99-b92c-1d6af4d8fdf3",
+        "addresses": [
+          {
+            "freeform": "4260 Ranch to Market Rd 967",
+            "locality": "Buda",
+            "postcode": "78610",
+            "region": "TX",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "http://Johnsonffa.weebly.com/"
+        ],
+        "phones": [
+          "+15122688512"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "2086058698165665",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9910269379615784,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "7358fd46-abbb-4fbf-abc3-f1c6a98c2fff",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 342.225
+      }
+    ]
+  },
+  {
+    "label": "Seagoville Middle School",
+    "suspect": "cc1ded36-062a-4468-a18e-695aa1bb52f4",
+    "comparators": [
+      "94000e77-d576-49fc-94fd-55e2f403010c",
+      "d11dcf4f-7028-4d14-8de7-ec3d583db8c5"
+    ],
+    "identity_evidence": "same name, street, ZIP and school phone; two campus-area comparator records from Meta and BrightQuery",
+    "official_url": "https://seagovillemiddle.dallasisd.org/our-school/school-contact-information",
+    "official_fact": "950 Woody Road, Dallas TX 75253; 972-892-7100",
+    "caveat": "Two comparator points differ by hundreds of metres; none is treated as survey truth.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Seagoville Middle School",
+      "category": "public_school",
+      "confidence": 0.9475890398025512,
+      "operating_status": null,
+      "lon": -96.240234375,
+      "lat": 32.528289364825,
+      "GEOID": "48257051201",
+      "ur_class": "Rural",
+      "pop_total": 3817,
+      "svi_covered": true,
+      "svi_overall": 0.7641,
+      "tribal_pct": 0.0,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0013570082235492,
+      "region": "south-central-tx",
+      "tract_school_records": 1,
+      "name_key": "seagovillemiddleschool",
+      "id": "cc1ded36-062a-4468-a18e-695aa1bb52f4",
+      "addresses": [
+        {
+          "freeform": "950 N. Woody Rd.",
+          "locality": "Seagoville",
+          "postcode": "75253",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "http://www.dallasisd.org/seagovillems"
+      ],
+      "phones": [
+        "+19728927100"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "298426350925177",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9475890398025513,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": 14
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "481623001353",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "SEAGOVILLE MIDDLE",
+      "LSTREET1": "950 WOODY RD",
+      "LCITY": "DALLAS",
+      "LSTATE": "TX ",
+      "LZIP": "75253",
+      "PHONE": "(972) 892-7100",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 1,
+    "tract_school_records_after_reviewed_exclusion": 0,
+    "binary_school_label_presence_changes": true,
+    "nearest_remaining_school_label": {
+      "id": "9630080c-51c5-4739-b905-423ccc4d7f7c",
+      "name": "O.P. Norman Junior High School",
+      "distance_km": 8.115,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Seagoville Middle School",
+        "category": "middle_school",
+        "confidence": 0.9902192950248718,
+        "operating_status": "open",
+        "lon": -96.58336,
+        "lat": 32.68171,
+        "GEOID": "48113017010",
+        "ur_class": "Urban",
+        "pop_total": 6573,
+        "svi_covered": true,
+        "svi_overall": 0.8643,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0002692199817509,
+        "region": "south-central-tx",
+        "tract_school_records": 5,
+        "name_key": "seagovillemiddleschool",
+        "id": "94000e77-d576-49fc-94fd-55e2f403010c",
+        "addresses": [
+          {
+            "freeform": "950 N Woody Rd",
+            "locality": "Dallas",
+            "postcode": "75253",
+            "region": "TX",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "http://www.dallasisd.org"
+        ],
+        "phones": [
+          "+19728927100"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "572784969256713",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9929225444793701,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "1f7e9583-105f-4b19-9627-f865482f0566",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 36.388
+      },
+      {
+        "name": "Seagoville Middle School",
+        "category": "middle_school",
+        "confidence": 0.95,
+        "operating_status": "open",
+        "lon": -96.5836009,
+        "lat": 32.6777241,
+        "GEOID": "48113017010",
+        "ur_class": "Urban",
+        "pop_total": 6573,
+        "svi_covered": true,
+        "svi_overall": 0.8643,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0002692199817509,
+        "region": "south-central-tx",
+        "tract_school_records": 5,
+        "name_key": "seagovillemiddleschool",
+        "id": "d11dcf4f-7028-4d14-8de7-ec3d583db8c5",
+        "addresses": [
+          {
+            "freeform": "950 N Woody Rd",
+            "locality": "Dallas",
+            "postcode": "75253-5047",
+            "region": "TX",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "https://dallasisd.schoolmint.net"
+        ],
+        "phones": [
+          "19728927100"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "BrightQuery",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "99255696",
+            "update_time": "2026-08-13T13:23:42.875Z",
+            "confidence": 0.95,
+            "between": null,
+            "provider": "brightquery",
+            "resource": "brightquery",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          }
+        ],
+        "separation_km": 36.203
+      }
+    ]
+  },
+  {
+    "label": "Meadows Elementary School",
+    "suspect": "d6cab405-9f77-4901-87cb-5fb928dd0a80",
+    "comparators": [
+      "e3de1695-c160-42d0-8b1a-7aec399ad959"
+    ],
+    "identity_evidence": "same name, street, ZIP and school phone",
+    "official_url": "https://mes.killeenisd.org/o/meadows",
+    "official_fact": "423 27th St, Fort Cavazos/Fort Hood TX 76544; 254-336-1870",
+    "caveat": "Point tract has population 35 and no SVI value; do not lead population impact with this military-area example.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Meadows Elementary School",
+      "category": "elementary_school",
+      "confidence": 0.9763929843902588,
+      "operating_status": null,
+      "lon": -97.70026,
+      "lat": 31.37526,
+      "GEOID": "48099980000",
+      "ur_class": "Rural",
+      "pop_total": 35,
+      "svi_covered": true,
+      "svi_overall": null,
+      "tribal_pct": 0.0,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0034184029010833,
+      "region": "south-central-tx",
+      "tract_school_records": 1,
+      "name_key": "meadowselementaryschool",
+      "id": "d6cab405-9f77-4901-87cb-5fb928dd0a80",
+      "addresses": [
+        {
+          "freeform": "423 27th St",
+          "locality": "Fort Cavazos",
+          "postcode": "76544-1399",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "http://www.MeadowsES.org/"
+      ],
+      "phones": [
+        "+12543361870"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "114263506623843",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9763929843902588,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": null
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "482566002874",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "MEADOWS EL",
+      "LSTREET1": "423 27TH ST",
+      "LCITY": "FORT CAVAZOS",
+      "LSTATE": "TX ",
+      "LZIP": "76544",
+      "PHONE": "(254) 336-1870",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 1,
+    "tract_school_records_after_reviewed_exclusion": 0,
+    "binary_school_label_presence_changes": true,
+    "nearest_remaining_school_label": {
+      "id": "6faadd77-518f-4b37-b2c3-26fb8be03817",
+      "name": "Gatesville Intermediate School",
+      "distance_km": 6.324,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Meadows Elementary School",
+        "category": "elementary_school",
+        "confidence": 0.9722161889076232,
+        "operating_status": "open",
+        "lon": -97.75049748,
+        "lat": 31.1338032,
+        "GEOID": "48027023202",
+        "ur_class": "Urban",
+        "pop_total": 4915,
+        "svi_covered": true,
+        "svi_overall": 0.4013,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0001374118387214,
+        "region": "south-central-tx",
+        "tract_school_records": 4,
+        "name_key": "meadowselementaryschool",
+        "id": "e3de1695-c160-42d0-8b1a-7aec399ad959",
+        "addresses": [
+          {
+            "freeform": "423 27th St",
+            "locality": "Fort Cavazos",
+            "postcode": "76544",
+            "region": "TX",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "https://www.killeenisd.org/schoolsV2/index.cfm?navBarID=1473"
+        ],
+        "phones": [
+          "+12543361870"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "159279367428110",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9929537177085876,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "9f36a7c7-9b0f-446c-b742-d5658db3bd20",
+            "update_time": "2026-07-13T15:52:52Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-07-13"
+          }
+        ],
+        "separation_km": 27.27
+      }
+    ]
+  },
+  {
+    "label": "Happy Camp High School",
+    "suspect": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+    "comparators": [
+      "249bb167-b742-4eb0-a38d-96e6476f84c6"
+    ],
+    "identity_evidence": "same name, phone, locality and ZIP; similar street address",
+    "official_url": "https://www.happycamp-highschool.com/o/hchs/page/contact",
+    "official_fact": "234 Indian Creek Rd, Happy Camp CA 96039; 530-493-2697",
+    "caveat": "Nearby school-labelled records include an apparel-store name; nearest label is not validated service access.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Happy Camp High School",
+      "category": "high_school",
+      "confidence": 0.9327213168144226,
+      "operating_status": null,
+      "lon": -123.15673828125,
+      "lat": 41.483891042672,
+      "GEOID": "06093000800",
+      "ur_class": "Rural",
+      "pop_total": 3370,
+      "svi_covered": true,
+      "svi_overall": 0.7052,
+      "tribal_pct": 0.0009505967067994,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0210605731316554,
+      "region": "northern-ca",
+      "tract_school_records": 9,
+      "name_key": "happycamphighschool",
+      "id": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+      "addresses": [
+        {
+          "freeform": "234 E Indian Creek Dr",
+          "locality": "Happy Camp",
+          "postcode": "96039",
+          "region": "CA",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.happycamp-highschool.com/"
+      ],
+      "phones": [
+        "+15304932697"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "630991857110260",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9327213168144226,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": 15
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "063694006277",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "Happy Camp High",
+      "LSTREET1": "234 Indian Creek Rd.",
+      "LCITY": "Happy Camp",
+      "LSTATE": "CA ",
+      "LZIP": "96039",
+      "PHONE": "(530) 493-2697",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 9,
+    "tract_school_records_after_reviewed_exclusion": 8,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "9a2bdecc-7419-476f-bc81-3a97895312ca",
+      "name": "Quartz Valley Elementary School Apparel Store - Fort Jones, CA",
+      "distance_km": 19.381,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Happy Camp High School",
+        "category": "high_school",
+        "confidence": 0.9199122190475464,
+        "operating_status": "open",
+        "lon": -123.37821177,
+        "lat": 41.79549119,
+        "GEOID": "06093001300",
+        "ur_class": "Rural",
+        "pop_total": 2529,
+        "svi_covered": true,
+        "svi_overall": 0.8333,
+        "tribal_pct": 0.0007349281629548,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0135665368708144,
+        "region": "northern-ca",
+        "tract_school_records": 6,
+        "name_key": "happycamphighschool",
+        "id": "249bb167-b742-4eb0-a38d-96e6476f84c6",
+        "addresses": [
+          {
+            "freeform": "234 Indian Creek Rd",
+            "locality": "Happy Camp",
+            "postcode": "96039",
+            "region": "CA",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "https://www.spiritshop.com/school/california/happy-camp/happy-camp-high-school"
+        ],
+        "phones": [
+          "+15304932697"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "759980817404264",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9708122611045837,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "b16382d6-b1e8-4278-8b8c-e249a3954d85",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 39.233
+      }
+    ]
+  },
+  {
+    "label": "McCloud High School",
+    "suspect": "c47dc5d8-1fd4-4221-be96-22dc15e07be9",
+    "comparators": [
+      "2d59cc6b-6a64-4a5e-881a-0b125f312b24"
+    ],
+    "identity_evidence": "same name, address and official website; district and campus phone fields differ",
+    "official_url": "https://www.mccloud-highschool.com/",
+    "official_fact": "133 Campus Way, McCloud CA 96057; district phone 530-926-3006",
+    "caveat": "Not detected by the zoom-18 grid flag; detector is incomplete.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "McCloud High School",
+      "category": "public_school",
+      "confidence": 0.9048563838005066,
+      "operating_status": null,
+      "lon": -122.01690673828,
+      "lat": 41.125271524269,
+      "GEOID": "06089012606",
+      "ur_class": "Rural",
+      "pop_total": 3346,
+      "svi_covered": true,
+      "svi_overall": 0.7991,
+      "tribal_pct": 0.0005164322491212,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0228767431527802,
+      "region": "northern-ca",
+      "tract_school_records": 7,
+      "name_key": "mccloudhighschool",
+      "id": "c47dc5d8-1fd4-4221-be96-22dc15e07be9",
+      "addresses": [
+        {
+          "freeform": "133 Campus Way",
+          "locality": "McCloud",
+          "postcode": "96057",
+          "region": "CA",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.mccloud-highschool.com/"
+      ],
+      "phones": [
+        "+15309263006"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "105822595347781",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9048563838005066,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": null
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "063694006278",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "McCloud High",
+      "LSTREET1": "133 Campus Way",
+      "LCITY": "McCloud",
+      "LSTATE": "CA ",
+      "LZIP": "95057",
+      "PHONE": "(530) 964-2181",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 7,
+    "tract_school_records_after_reviewed_exclusion": 6,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "ec38bee6-0f5f-4d4c-ba4e-62bc2977c310",
+      "name": "Indian Springs Elementary School",
+      "distance_km": 15.196,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "McCloud High School",
+        "category": "high_school",
+        "confidence": 0.9199122190475464,
+        "operating_status": "open",
+        "lon": -122.13441014,
+        "lat": 41.25447565,
+        "GEOID": "06093001200",
+        "ur_class": "Rural",
+        "pop_total": 1279,
+        "svi_covered": true,
+        "svi_overall": 0.6533,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0022996357932261,
+        "region": "northern-ca",
+        "tract_school_records": 3,
+        "name_key": "mccloudhighschool",
+        "id": "2d59cc6b-6a64-4a5e-881a-0b125f312b24",
+        "addresses": [
+          {
+            "freeform": "133 Campus Way",
+            "locality": "McCloud",
+            "postcode": "96057",
+            "region": "CA",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "http://www.mccloud-highschool.com"
+        ],
+        "phones": [
+          "+15309642181"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "253796958072432",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.7240293622016907,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "e9eb657d-a50b-4e39-aa32-579c868b08bb",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 17.409
+      }
+    ]
+  },
+  {
+    "label": "Horse Heaven Hills Middle School",
+    "suspect": "3724a7c0-8fcd-47ba-9aab-65d61b89a5e7",
+    "comparators": [
+      "85ae45a2-b961-43ab-8964-83a6ad0fceb6"
+    ],
+    "identity_evidence": "same school-specific official website; abbreviated suspect name",
+    "official_url": "https://horseheavenhills.ksd.org/contact-us",
+    "official_fact": "3500 S Vancouver St, Kennewick WA 99337; 509-222-6800",
+    "caveat": "Suspect has no street address or phone; website match is the principal identity evidence.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Horse Heaven Hills",
+      "category": "middle_school",
+      "confidence": 0.9722161889076232,
+      "operating_status": "open",
+      "lon": -119.86781114,
+      "lat": 46.13318082,
+      "GEOID": "53077002701",
+      "ur_class": "Rural",
+      "pop_total": 3010,
+      "svi_covered": true,
+      "svi_overall": 0.9656,
+      "tribal_pct": 0.0,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0109484656229828,
+      "region": "eastern-wa",
+      "tract_school_records": 4,
+      "name_key": "horseheavenhills",
+      "id": "3724a7c0-8fcd-47ba-9aab-65d61b89a5e7",
+      "addresses": [
+        {
+          "freeform": "",
+          "locality": "Yakima County",
+          "postcode": "",
+          "region": null,
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "http://horseheavenhills.ksd.org/"
+      ],
+      "phones": null,
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "104064019630503",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.6615186333656311,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "7faeb592-e7de-4678-87aa-272ad2c65317",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "minimum_tile_zoom": null
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "530393000750",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "Horse Heaven Hills Middle School",
+      "LSTREET1": "3500 SOUTH VANCOUVER STREET",
+      "LCITY": "KENNEWICK",
+      "LSTATE": "WA ",
+      "LZIP": "99337",
+      "PHONE": "(509) 585-3260",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 4,
+    "tract_school_records_after_reviewed_exclusion": 3,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "bb521afe-0c7a-4b41-9c5c-d66a34ea04fd",
+      "name": "Keene-Riverview Elementary School",
+      "distance_km": 10.367,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Horse Heaven Hills Middle School",
+        "category": "middle_school",
+        "confidence": 0.9902192950248718,
+        "operating_status": "open",
+        "lon": -119.14976775,
+        "lat": 46.17774118,
+        "GEOID": "53005011506",
+        "ur_class": "Urban",
+        "pop_total": 6575,
+        "svi_covered": true,
+        "svi_overall": 0.1152,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 0.0121574387339746,
+        "region": "eastern-wa",
+        "tract_school_records": 2,
+        "name_key": "horseheavenhillsmiddleschool",
+        "id": "85ae45a2-b961-43ab-8964-83a6ad0fceb6",
+        "addresses": [
+          {
+            "freeform": "3500 S Vancouver St",
+            "locality": "Kennewick",
+            "postcode": "99337",
+            "region": "WA",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "http://horseheavenhills.ksd.org/"
+        ],
+        "phones": [
+          "+15092226800"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "1005963976141689",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9951167106628418,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "80ca2265-9bd9-4021-9d26-681921caf340",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 55.529
+      }
+    ]
+  },
+  {
+    "label": "Piner Middle School",
+    "suspect": "7637046a-2843-45ca-9e34-20f7f7778081",
+    "comparators": [
+      "e14a283c-ec81-4aa8-b338-d0b86977a01c"
+    ],
+    "identity_evidence": "same exact name and school phone; point is in Oklahoma, while address and official school are in Sherman Texas",
+    "official_url": "https://www.shermanisd.net/schools/middle-schools",
+    "official_fact": "402 W Pecan, Sherman TX; 903-891-6470",
+    "caveat": "Suspect street is malformed and its ZIP differs from comparator; official district page also differs on ZIP, so phone/name/state are used.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Piner Middle School",
+      "category": "middle_school",
+      "confidence": 0.953568398952484,
+      "operating_status": "open",
+      "lon": -96.328125,
+      "lat": 33.724339661748,
+      "GEOID": "40013795900",
+      "ur_class": "Rural",
+      "pop_total": 1607,
+      "svi_covered": true,
+      "svi_overall": 0.5544,
+      "tribal_pct": 0.9999999999999984,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0008986686552063,
+      "region": "eastern-ok",
+      "tract_school_records": 5,
+      "name_key": "pinermiddleschool",
+      "id": "7637046a-2843-45ca-9e34-20f7f7778081",
+      "addresses": [
+        {
+          "freeform": "402 Seasons W",
+          "locality": "Sherman",
+          "postcode": "75092-9719",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://piner.shermanisd.net/"
+      ],
+      "phones": [
+        "+19038916470"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "1139348906093150",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9535683989524841,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "f87dec34-93b8-4178-88cf-3fdbc1f50683",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "minimum_tile_zoom": 9
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "484008004549",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "PINER MIDDLE",
+      "LSTREET1": "402 W PECAN",
+      "LCITY": "SHERMAN",
+      "LSTATE": "TX ",
+      "LZIP": "75090",
+      "PHONE": "(903) 891-6470",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 5,
+    "tract_school_records_after_reviewed_exclusion": 4,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "4a502dff-53f7-4d52-8705-cd879d6b8d33",
+      "name": "Bloomfield Academy",
+      "distance_km": 9.801,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "Piner Middle School",
+        "category": "middle_school",
+        "confidence": 0.9902192950248718,
+        "operating_status": "open",
+        "lon": -96.61436419,
+        "lat": 33.63715089,
+        "GEOID": "48181002000",
+        "ur_class": "Urban",
+        "pop_total": 3418,
+        "svi_covered": true,
+        "svi_overall": 0.9454,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 9.356457144545248e-05,
+        "region": "south-central-tx",
+        "tract_school_records": 8,
+        "name_key": "pinermiddleschool",
+        "id": "e14a283c-ec81-4aa8-b338-d0b86977a01c",
+        "addresses": [
+          {
+            "freeform": "402 W Pecan St",
+            "locality": "Sherman",
+            "postcode": "75090",
+            "region": "TX",
+            "country": "US"
+          }
+        ],
+        "websites": [
+          "http://www.shermanisd.net/Piner.cfm?subpage=467962"
+        ],
+        "phones": [
+          "+19038916470"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "1682493315320160",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9929240942001343,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "a5d569df-0d40-44e5-98ba-77bee6a5b6f8",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 28.204
+      }
+    ]
+  },
+  {
+    "label": "U.S. Grant High School",
+    "suspect": "a233c100-53ac-4a63-9d3f-5c236c1617c1",
+    "comparators": [
+      "30a3fba5-c733-4019-bdd3-ac0272ed4bfc"
+    ],
+    "identity_evidence": "same school phone; suspect links official school-specific URL; comparator is an alumni/memorial record with the official school street address",
+    "official_url": "https://grant.okcps.org/our-school/general-information/contact-us",
+    "official_fact": "5016 S Pennsylvania Ave, Oklahoma City OK 73119; 405-587-2200",
+    "caveat": "Comparator is an alumni/memorial record, not independently verified campus geometry; suspect has no address.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "U.S. Grant High School",
+      "category": "school",
+      "confidence": 0.9722161889076232,
+      "operating_status": null,
+      "lon": -101.6015625,
+      "lat": 33.284619968888,
+      "GEOID": "48305950400",
+      "ur_class": "Rural",
+      "pop_total": 2178,
+      "svi_covered": true,
+      "svi_overall": 0.6815,
+      "tribal_pct": 0.0,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0026823148073695,
+      "region": "south-central-tx",
+      "tract_school_records": 5,
+      "name_key": "usgranthighschool",
+      "id": "a233c100-53ac-4a63-9d3f-5c236c1617c1",
+      "addresses": [
+        {
+          "freeform": null,
+          "locality": null,
+          "postcode": null,
+          "region": null,
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "http://www.okcps.org/Grant"
+      ],
+      "phones": [
+        "+14055872200"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "213886539328538",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8893475532531738,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": 11
+    },
+    "nces_address_corroboration": {
+      "NCESSCH": "402277001139",
+      "SURVYEAR": "2024-2025",
+      "SCH_NAME": "U. S. GRANT HS",
+      "LSTREET1": "5016 South Pennsylvania Avenue",
+      "LCITY": "Oklahoma City",
+      "LSTATE": "OK ",
+      "LZIP": "73119",
+      "PHONE": "(405) 587-2200",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 5,
+    "tract_school_records_after_reviewed_exclusion": 4,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "ca020b17-7135-43da-9c81-84ac38f74a7d",
+      "name": "Southland School",
+      "distance_km": 9.608,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": [
+      {
+        "name": "US Grant High School Memorial (OKC)",
+        "category": "elementary_school",
+        "confidence": 0.9722161889076232,
+        "operating_status": "open",
+        "lon": -97.54492601409444,
+        "lat": 35.415606341659135,
+        "GEOID": "40109107217",
+        "ur_class": "Urban",
+        "pop_total": 2134,
+        "svi_covered": true,
+        "svi_overall": 0.7189,
+        "tribal_pct": 0.0,
+        "usfs_covered": true,
+        "usfs_BP_mean": 4.861138019403096e-08,
+        "region": "eastern-ok",
+        "tract_school_records": 2,
+        "name_key": "usgranthighschoolmemorialokc",
+        "id": "30a3fba5-c733-4019-bdd3-ac0272ed4bfc",
+        "addresses": [
+          {
+            "freeform": "5016 S Pennsylvania Ave",
+            "locality": "Oklahoma City",
+            "postcode": "73119-4932",
+            "region": "OK",
+            "country": "US"
+          }
+        ],
+        "websites": null,
+        "phones": [
+          "+14055872200"
+        ],
+        "sources": [
+          {
+            "property": "",
+            "dataset": "meta",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "152943364721897",
+            "update_time": "2026-08-10T00:00:00.000Z",
+            "confidence": 0.9220365881919861,
+            "between": null,
+            "provider": "meta",
+            "resource": "meta",
+            "version": "2026-08-10"
+          },
+          {
+            "property": "/properties/confidence",
+            "dataset": "Overture",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": null,
+            "update_time": "2026-08-14T19:46:07Z",
+            "confidence": null,
+            "between": null,
+            "provider": "overture",
+            "resource": "confidence_calculation",
+            "version": "2026-08-14"
+          },
+          {
+            "property": "/properties/operating_status",
+            "dataset": "Overture-signals",
+            "license": "CDLA-Permissive-2.0",
+            "record_id": "4bfbb763-2fba-4467-95c2-19b1fb135f41",
+            "update_time": "2026-08-10T22:54:24Z",
+            "confidence": 1.0,
+            "between": null,
+            "provider": "overture",
+            "resource": "operating_status_signal",
+            "version": "2026-08-10"
+          }
+        ],
+        "separation_km": 441.341
+      }
+    ]
+  },
+  {
+    "label": "Southern Boone School District",
+    "suspect": "fdca9dbd-4348-492d-8c21-d461c767e760",
+    "comparators": [],
+    "identity_evidence": "name, official website, street address and school phone identify Missouri district; provided point is in Oklahoma",
+    "official_url": "https://www.sbschools.us/",
+    "official_fact": "5275 West Red Tail Drive, Ashland MO 65010; 573-657-2147",
+    "caveat": "District office rather than campus; no counterpart in package. No separation to an external ground-truth coordinate is calculated.",
+    "verified_on": "2026-10-07",
+    "suspect_record": {
+      "name": "Southern Boone School District",
+      "category": "school",
+      "confidence": 0.9602150917053224,
+      "operating_status": null,
+      "lon": -96.328125,
+      "lat": 35.460669951495,
+      "GEOID": "40107080900",
+      "ur_class": "Rural",
+      "pop_total": 3449,
+      "svi_covered": true,
+      "svi_overall": 0.8906,
+      "tribal_pct": 0.9999999999999988,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0159179059441306,
+      "region": "eastern-ok",
+      "tract_school_records": 9,
+      "name_key": "southernbooneschooldistrict",
+      "id": "fdca9dbd-4348-492d-8c21-d461c767e760",
+      "addresses": [
+        {
+          "freeform": "5275 Redtail Dr",
+          "locality": "Ashland",
+          "postcode": "65010-2102",
+          "region": "MO",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "http://www.sbschools.us/"
+      ],
+      "phones": [
+        "+15736572147"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "432359470644847",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9602150917053223,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "minimum_tile_zoom": 9
+    },
+    "nces_address_corroboration": {
+      "LEAID": "2928560",
+      "NAME": "SOUTHERN BOONE CO. R-I",
+      "STREET": "5275 W Red Tail Dr",
+      "CITY": "ASHLAND",
+      "STATE": "MO",
+      "ZIP": "65010",
+      "SCHOOLYEAR": "2024-2025",
+      "retrieved_on": "2026-10-07",
+      "license": "Public domain",
+      "purpose": "Discovery identity/address only; no geometry"
+    },
+    "tract_school_records_before": 9,
+    "tract_school_records_after_reviewed_exclusion": 8,
+    "binary_school_label_presence_changes": false,
+    "nearest_remaining_school_label": {
+      "id": "d81b42cc-0f9f-4ad2-8fc6-d22a75d63407",
+      "name": "Oakes Elementary School",
+      "distance_km": 3.242,
+      "warning": "Unverified label; straight-line distance from suspect point, not tract origin, route, or service access."
+    },
+    "comparator_records": []
+  }
+]

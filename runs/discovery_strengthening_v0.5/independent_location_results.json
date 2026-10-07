@@ -1,0 +1,475 @@
+{
+  "version": "0.5",
+  "independent_school_cases": 9,
+  "independent_discrepancy_km_min": 17.395,
+  "independent_discrepancy_km_max": 544.008,
+  "all_school_suspects_confidence_above_0_9": true,
+  "school_tracts_label_count_1_to_0": 4,
+  "fire_tracts_label_count_1_to_0": 1,
+  "school_campus_enrolment_context_2024_25": 8648,
+  "rows": [
+    {
+      "label": "Moe & Gene Johnson High School",
+      "suspect_id": "2b483ffc-45d6-41a3-9e15-252141a28c15",
+      "nces_id": "480001013567",
+      "nces_attributes": {
+        "NCESSCH": "480001013567",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "MOE AND GENE JOHNSON H S",
+        "LSTREET1": "4260 RANCH RD 967",
+        "LCITY": "BUDA",
+        "LSTATE": "TX ",
+        "LZIP": "78610",
+        "PHONE": "(512) 268-8512",
+        "LATCOD": 30.099326,
+        "LONCOD": -97.892564,
+        "MEMBER": 2870,
+        "TOTAL": 2870,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Missing"
+      },
+      "nces_point": {
+        "lon": -97.89256400002853,
+        "lat": 30.099325999695168
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "48209010912",
+          "ur_class": "Rural",
+          "pop_total": 8414,
+          "svi_overall": 0.0361,
+          "region": "south-central-tx"
+        }
+      ],
+      "suspect_point": {
+        "lon": -98.4375,
+        "lat": 27.059125784374,
+        "GEOID": "48047950100",
+        "ur_class": "Rural",
+        "confidence": 0.9722161889076232,
+        "pop_total": 2236,
+        "svi_overall": 0.9109
+      },
+      "suspect_to_nces_km": 342.216,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "c19efedd-c59a-4d99-b92c-1d6af4d8fdf3",
+          "km": 0.048
+        }
+      ],
+      "record_count_before": 1,
+      "record_count_after_individual_quarantine": 0,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Seagoville Middle School",
+      "suspect_id": "cc1ded36-062a-4468-a18e-695aa1bb52f4",
+      "nces_id": "481623001353",
+      "nces_attributes": {
+        "NCESSCH": "481623001353",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "SEAGOVILLE MIDDLE",
+        "LSTREET1": "950 WOODY RD",
+        "LCITY": "DALLAS",
+        "LSTATE": "TX ",
+        "LZIP": "75253",
+        "PHONE": "(972) 892-7100",
+        "LATCOD": 32.681504,
+        "LONCOD": -96.583717,
+        "MEMBER": 1063,
+        "TOTAL": 1063,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Missing"
+      },
+      "nces_point": {
+        "lon": -96.58371700023935,
+        "lat": 32.681504000009625
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "48113017010",
+          "ur_class": "Urban",
+          "pop_total": 6573,
+          "svi_overall": 0.8643,
+          "region": "south-central-tx"
+        }
+      ],
+      "suspect_point": {
+        "lon": -96.240234375,
+        "lat": 32.528289364825,
+        "GEOID": "48257051201",
+        "ur_class": "Rural",
+        "confidence": 0.9475890398025512,
+        "pop_total": 3817,
+        "svi_overall": 0.7641
+      },
+      "suspect_to_nces_km": 36.407,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "94000e77-d576-49fc-94fd-55e2f403010c",
+          "km": 0.041
+        },
+        {
+          "id": "d11dcf4f-7028-4d14-8de7-ec3d583db8c5",
+          "km": 0.42
+        }
+      ],
+      "record_count_before": 1,
+      "record_count_after_individual_quarantine": 0,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Meadows Elementary School",
+      "suspect_id": "d6cab405-9f77-4901-87cb-5fb928dd0a80",
+      "nces_id": "482566002874",
+      "nces_attributes": {
+        "NCESSCH": "482566002874",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "MEADOWS EL",
+        "LSTREET1": "423 27TH ST",
+        "LCITY": "FORT CAVAZOS",
+        "LSTATE": "TX ",
+        "LZIP": "76544",
+        "PHONE": "(254) 336-1870",
+        "LATCOD": 31.133876,
+        "LONCOD": -97.750412,
+        "MEMBER": 912,
+        "TOTAL": 912,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Missing"
+      },
+      "nces_point": {
+        "lon": -97.75041199981388,
+        "lat": 31.133876000077407
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "48027023202",
+          "ur_class": "Urban",
+          "pop_total": 4915,
+          "svi_overall": 0.4013,
+          "region": "south-central-tx"
+        }
+      ],
+      "suspect_point": {
+        "lon": -97.70026,
+        "lat": 31.37526,
+        "GEOID": "48099980000",
+        "ur_class": "Rural",
+        "confidence": 0.9763929843902588,
+        "pop_total": 35,
+        "svi_overall": null
+      },
+      "suspect_to_nces_km": 27.261,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "e3de1695-c160-42d0-8b1a-7aec399ad959",
+          "km": 0.011
+        }
+      ],
+      "record_count_before": 1,
+      "record_count_after_individual_quarantine": 0,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Happy Camp High School",
+      "suspect_id": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+      "nces_id": "063694006277",
+      "nces_attributes": {
+        "NCESSCH": "063694006277",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "Happy Camp High",
+        "LSTREET1": "234 Indian Creek Rd.",
+        "LCITY": "Happy Camp",
+        "LSTATE": "CA ",
+        "LZIP": "96039",
+        "PHONE": "(530) 493-2697",
+        "LATCOD": 41.795543,
+        "LONCOD": -123.378128,
+        "MEMBER": 41,
+        "TOTAL": 41,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Not Virtual"
+      },
+      "nces_point": {
+        "lon": -123.3781280001071,
+        "lat": 41.79554299970971
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "06093001300",
+          "ur_class": "Rural",
+          "pop_total": 2529,
+          "svi_overall": 0.8333,
+          "region": "northern-ca"
+        }
+      ],
+      "suspect_point": {
+        "lon": -123.15673828125,
+        "lat": 41.483891042672,
+        "GEOID": "06093000800",
+        "ur_class": "Rural",
+        "confidence": 0.9327213168144226,
+        "pop_total": 3370,
+        "svi_overall": 0.7052
+      },
+      "suspect_to_nces_km": 39.235,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "249bb167-b742-4eb0-a38d-96e6476f84c6",
+          "km": 0.009
+        }
+      ],
+      "record_count_before": 9,
+      "record_count_after_individual_quarantine": 8,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "McCloud High School",
+      "suspect_id": "c47dc5d8-1fd4-4221-be96-22dc15e07be9",
+      "nces_id": "063694006278",
+      "nces_attributes": {
+        "NCESSCH": "063694006278",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "McCloud High",
+        "LSTREET1": "133 Campus Way",
+        "LCITY": "McCloud",
+        "LSTATE": "CA ",
+        "LZIP": "95057",
+        "PHONE": "(530) 964-2181",
+        "LATCOD": 41.254157,
+        "LONCOD": -122.134716,
+        "MEMBER": 7,
+        "TOTAL": 7,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Not Virtual"
+      },
+      "nces_point": {
+        "lon": -122.13471599974355,
+        "lat": 41.254156999645886
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "06093001200",
+          "ur_class": "Rural",
+          "pop_total": 1279,
+          "svi_overall": 0.6533,
+          "region": "northern-ca"
+        }
+      ],
+      "suspect_point": {
+        "lon": -122.01690673828,
+        "lat": 41.125271524269,
+        "GEOID": "06089012606",
+        "ur_class": "Rural",
+        "confidence": 0.9048563838005066,
+        "pop_total": 3346,
+        "svi_overall": 0.7991
+      },
+      "suspect_to_nces_km": 17.395,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "2d59cc6b-6a64-4a5e-881a-0b125f312b24",
+          "km": 0.044
+        }
+      ],
+      "record_count_before": 7,
+      "record_count_after_individual_quarantine": 6,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Horse Heaven Hills Middle School",
+      "suspect_id": "3724a7c0-8fcd-47ba-9aab-65d61b89a5e7",
+      "nces_id": "530393000750",
+      "nces_attributes": {
+        "NCESSCH": "530393000750",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "Horse Heaven Hills Middle School",
+        "LSTREET1": "3500 SOUTH VANCOUVER STREET",
+        "LCITY": "KENNEWICK",
+        "LSTATE": "WA ",
+        "LZIP": "99337",
+        "PHONE": "(509) 585-3260",
+        "LATCOD": 46.177795,
+        "LONCOD": -119.149809,
+        "MEMBER": 856,
+        "TOTAL": 856,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Not Virtual"
+      },
+      "nces_point": {
+        "lon": -119.14980900028507,
+        "lat": 46.17779499983942
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "53005011506",
+          "ur_class": "Urban",
+          "pop_total": 6575,
+          "svi_overall": 0.1152,
+          "region": "eastern-wa"
+        }
+      ],
+      "suspect_point": {
+        "lon": -119.86781114,
+        "lat": 46.13318082,
+        "GEOID": "53077002701",
+        "ur_class": "Rural",
+        "confidence": 0.9722161889076232,
+        "pop_total": 3010,
+        "svi_overall": 0.9656
+      },
+      "suspect_to_nces_km": 55.526,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "85ae45a2-b961-43ab-8964-83a6ad0fceb6",
+          "km": 0.007
+        }
+      ],
+      "record_count_before": 4,
+      "record_count_after_individual_quarantine": 3,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Piner Middle School",
+      "suspect_id": "7637046a-2843-45ca-9e34-20f7f7778081",
+      "nces_id": "484008004549",
+      "nces_attributes": {
+        "NCESSCH": "484008004549",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "PINER MIDDLE",
+        "LSTREET1": "402 W PECAN",
+        "LCITY": "SHERMAN",
+        "LSTATE": "TX ",
+        "LZIP": "75090",
+        "PHONE": "(903) 891-6470",
+        "LATCOD": 33.636691,
+        "LONCOD": -96.614139,
+        "MEMBER": 831,
+        "TOTAL": 831,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Missing"
+      },
+      "nces_point": {
+        "lon": -96.61413900021466,
+        "lat": 33.636690999889765
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "48181002000",
+          "ur_class": "Urban",
+          "pop_total": 3418,
+          "svi_overall": 0.9454,
+          "region": "south-central-tx"
+        }
+      ],
+      "suspect_point": {
+        "lon": -96.328125,
+        "lat": 33.724339661748,
+        "GEOID": "40013795900",
+        "ur_class": "Rural",
+        "confidence": 0.953568398952484,
+        "pop_total": 1607,
+        "svi_overall": 0.5544
+      },
+      "suspect_to_nces_km": 28.202,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "e14a283c-ec81-4aa8-b338-d0b86977a01c",
+          "km": 0.055
+        }
+      ],
+      "record_count_before": 5,
+      "record_count_after_individual_quarantine": 4,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "U.S. Grant High School",
+      "suspect_id": "a233c100-53ac-4a63-9d3f-5c236c1617c1",
+      "nces_id": "402277001139",
+      "nces_attributes": {
+        "NCESSCH": "402277001139",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "U. S. GRANT HS",
+        "LSTREET1": "5016 South Pennsylvania Avenue",
+        "LCITY": "Oklahoma City",
+        "LSTATE": "OK ",
+        "LZIP": "73119",
+        "PHONE": "(405) 587-2200",
+        "LATCOD": 35.4155,
+        "LONCOD": -97.5447,
+        "MEMBER": 1680,
+        "TOTAL": 1680,
+        "SY_STATUS_TEXT": "Open",
+        "VIRTUAL": "Not Virtual"
+      },
+      "nces_point": {
+        "lon": -97.54470000030472,
+        "lat": 35.41550000022488
+      },
+      "nces_point_tract_matches": [
+        {
+          "GEOID": "40109107217",
+          "ur_class": "Urban",
+          "pop_total": 2134,
+          "svi_overall": 0.7189,
+          "region": "eastern-ok"
+        }
+      ],
+      "suspect_point": {
+        "lon": -101.6015625,
+        "lat": 33.284619968888,
+        "GEOID": "48305950400",
+        "ur_class": "Rural",
+        "confidence": 0.9722161889076232,
+        "pop_total": 2178,
+        "svi_overall": 0.6815
+      },
+      "suspect_to_nces_km": 441.352,
+      "supplied_comparators_to_nces": [
+        {
+          "id": "30a3fba5-c733-4019-bdd3-ac0272ed4bfc",
+          "km": 0.024
+        }
+      ],
+      "record_count_before": 5,
+      "record_count_after_individual_quarantine": 4,
+      "sensitivity_scope": "Excludes only this suspect ID. No NCES school is added to the inventory; zero labels is not zero real schools."
+    },
+    {
+      "label": "Lakeview Elementary School",
+      "suspect_id": "c5484503-726f-4b8c-9612-1a6965679451",
+      "nces_id": "481281006371",
+      "nces_attributes": {
+        "NCESSCH": "481281006371",
+        "SURVYEAR": "2024-2025",
+        "SCH_NAME": "LAKEVIEW EL",
+        "LSTREET1": "6407 LAIR RD",
+        "LCITY": "AMARILLO",
+        "LSTATE": "TX ",
+        "LZIP": "79118",
+        "PHONE": "(806) 677-2830",
+        "MEMBER": 388
+      },
+      "nces_point": {
+        "lon": -101.90906400020339,
+        "lat": 35.05696200019622
+      },
+      "nces_point_tract_matches": [],
+      "suspect_to_nces_km": 544.008,
+      "record_count_before": 1,
+      "record_count_after_individual_quarantine": 0,
+      "suspect_point": {
+        "lon": -99.140625,
+        "lat": 30.751277776258,
+        "GEOID": "48319950200",
+        "ur_class": "Rural",
+        "confidence": 0.9033488631248474,
+        "pop_total": 1784,
+        "svi_overall": 0.2778
+      },
+      "supplied_comparators_to_nces": []
+    }
+  ],
+  "scope": "Eight v0.4 cases plus one newly matched Lakeview school. Selected evidence, not an error-rate sample. All external geometry is Discovery only. Elementary-origin enrolment is separate context, excluded from this nine-campus total."
+}

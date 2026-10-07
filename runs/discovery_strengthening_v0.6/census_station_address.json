@@ -1,0 +1,42 @@
+{
+  "result": {
+    "input": {
+      "address": {
+        "address": "13425 S Bryant Ave, Edmond, OK 73034"
+      },
+      "benchmark": {
+        "isDefault": true,
+        "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+        "id": "4",
+        "benchmarkName": "Public_AR_Current"
+      }
+    },
+    "addressMatches": [
+      {
+        "tigerLine": {
+          "side": "L",
+          "tigerLineId": "646766111"
+        },
+        "coordinates": {
+          "x": -97.460511208045,
+          "y": 35.740543829922
+        },
+        "addressComponents": {
+          "zip": "73034",
+          "streetName": "BRYANT",
+          "preType": "",
+          "city": "EDMOND",
+          "preDirection": "S",
+          "suffixDirection": "",
+          "fromAddress": "13499",
+          "state": "OK",
+          "suffixType": "RD",
+          "toAddress": "12901",
+          "suffixQualifier": "",
+          "preQualifier": ""
+        },
+        "matchedAddress": "13425 S BRYANT RD, EDMOND, OK, 73034"
+      }
+    ]
+  }
+}

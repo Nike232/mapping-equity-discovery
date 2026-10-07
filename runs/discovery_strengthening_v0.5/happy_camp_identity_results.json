@@ -1,0 +1,274 @@
+{
+  "scenario": "School-identity lookup sensitivity: select the highest-confidence supplied same-name/phone high-school point and measure from the matched elementary campus. Emergency use is a hypothetical application, not a verified designation or incident.",
+  "nces_elementary_id": "061653002087",
+  "nces_high_school_id": "063694006277",
+  "nces_elementary_attributes": {
+    "NCESSCH": "061653002087",
+    "SURVYEAR": "2024-2025",
+    "SCH_NAME": "Happy Camp Union Elementary",
+    "LSTREET1": "114 Park Way",
+    "LCITY": "Happy Camp",
+    "LSTATE": "CA ",
+    "LZIP": "96039",
+    "PHONE": "(530) 493-2267",
+    "MEMBER": 79
+  },
+  "nces_high_school_attributes": {
+    "NCESSCH": "063694006277",
+    "SURVYEAR": "2024-2025",
+    "SCH_NAME": "Happy Camp High",
+    "LSTREET1": "234 Indian Creek Rd.",
+    "LCITY": "Happy Camp",
+    "LSTATE": "CA ",
+    "LZIP": "96039",
+    "PHONE": "(530) 493-2697",
+    "MEMBER": 41
+  },
+  "nces_elementary_point": {
+    "lon": -123.37337700044816,
+    "lat": 41.79474299968973
+  },
+  "nces_high_school_point": {
+    "lon": -123.3781280001071,
+    "lat": 41.79554299970971
+  },
+  "supplied_records": {
+    "elementary_origin": {
+      "name": "Happy Camp Elementary School",
+      "category": "elementary_school",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "lon": -123.37342418,
+      "lat": 41.79468215,
+      "GEOID": "06093001300",
+      "ur_class": "Rural",
+      "pop_total": 2529,
+      "svi_covered": true,
+      "svi_overall": 0.8333,
+      "tribal_pct": 0.0007349281629548,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0135665368708144,
+      "region": "northern-ca",
+      "tract_school_records": 6,
+      "name_key": "happycampelementaryschool",
+      "id": "f22af2bd-6e41-4b50-875b-6ea17ade8014",
+      "addresses": [
+        {
+          "freeform": "114 Park Way",
+          "locality": "Happy Camp",
+          "postcode": "96039",
+          "region": "CA",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.happycamp.k12.ca.us/"
+      ],
+      "phones": [
+        "+15304932267"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "310214268838219",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9193336367607117,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "dbaa57c2-0e83-4d4a-ba6e-1df057bed51e",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ]
+    },
+    "high_school_suspect": {
+      "name": "Happy Camp High School",
+      "category": "high_school",
+      "confidence": 0.9327213168144226,
+      "operating_status": null,
+      "lon": -123.15673828125,
+      "lat": 41.483891042672,
+      "GEOID": "06093000800",
+      "ur_class": "Rural",
+      "pop_total": 3370,
+      "svi_covered": true,
+      "svi_overall": 0.7052,
+      "tribal_pct": 0.0009505967067994,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0210605731316554,
+      "region": "northern-ca",
+      "tract_school_records": 9,
+      "name_key": "happycamphighschool",
+      "id": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+      "addresses": [
+        {
+          "freeform": "234 E Indian Creek Dr",
+          "locality": "Happy Camp",
+          "postcode": "96039",
+          "region": "CA",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.happycamp-highschool.com/"
+      ],
+      "phones": [
+        "+15304932697"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "630991857110260",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9327213168144226,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ]
+    },
+    "high_school_comparator": {
+      "name": "Happy Camp High School",
+      "category": "high_school",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "lon": -123.37821177,
+      "lat": 41.79549119,
+      "GEOID": "06093001300",
+      "ur_class": "Rural",
+      "pop_total": 2529,
+      "svi_covered": true,
+      "svi_overall": 0.8333,
+      "tribal_pct": 0.0007349281629548,
+      "usfs_covered": true,
+      "usfs_BP_mean": 0.0135665368708144,
+      "region": "northern-ca",
+      "tract_school_records": 6,
+      "name_key": "happycamphighschool",
+      "id": "249bb167-b742-4eb0-a38d-96e6476f84c6",
+      "addresses": [
+        {
+          "freeform": "234 Indian Creek Rd",
+          "locality": "Happy Camp",
+          "postcode": "96039",
+          "region": "CA",
+          "country": "US"
+        }
+      ],
+      "websites": [
+        "https://www.spiritshop.com/school/california/happy-camp/happy-camp-high-school"
+      ],
+      "phones": [
+        "+15304932697"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "759980817404264",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9708122611045837,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "b16382d6-b1e8-4278-8b8c-e249a3954d85",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ]
+    }
+  },
+  "nces_campus_to_campus_km": 0.403777,
+  "nces_origin_to_suspect_km": 38.972469,
+  "supplied_origin_to_suspect_km": 38.968283,
+  "supplied_origin_to_comparator_km": 0.406957,
+  "comparator_to_nces_high_school_km": 0.009023,
+  "elementary_supplied_to_nces_km": 0.007815,
+  "highest_confidence_selected_id": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+  "illustrative_threshold_0_93_retained_ids": [
+    "61281033-1be5-4ac5-8f3e-5a410a791fff"
+  ],
+  "nces_origin_tracts": [
+    {
+      "GEOID": "06093001300",
+      "ur_class": "Rural",
+      "pop_total": 2529,
+      "svi_overall": 0.8333,
+      "region": "northern-ca"
+    }
+  ],
+  "nces_destination_tracts": [
+    {
+      "GEOID": "06093001300",
+      "ur_class": "Rural",
+      "pop_total": 2529,
+      "svi_overall": 0.8333,
+      "region": "northern-ca"
+    }
+  ],
+  "limitations": "NCES points are administrative geocodes, not entrances. Associated comparator is an apparel page, not a new campus. No evacuation designation, public shelter eligibility, route, capacity, travel time or harm is established. Only openly licensed challenge records and public-domain NCES data support this core exhibit.",
+  "distance_ratio_suspect_to_campus": 96.52
+}

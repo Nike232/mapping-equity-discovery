@@ -1,0 +1,32 @@
+{
+  "retrieved_on": "2026-10-07",
+  "purpose": "Discovery-only manual identity/address corroboration; no external coordinates or model inputs",
+  "queries": [
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query",
+      "params": {
+        "f": "pjson",
+        "where": "UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%HAPPY CAMP HIGH%' OR UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%MCCLOUD HIGH%' OR UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%HORSE HEAVEN%' OR Public_Schools_2025_CCD_Final.NCESSCH IN ('480001013567','481623001353','402277001139') OR (Public_Schools_2025_CCD_Final.STABR='TX' AND (UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%PINER MIDDLE%' OR UPPER(Public_Schools_2025_CCD_Final.SCH_NAME)='MEADOWS EL'))",
+        "outFields": "Public_Schools_2025_CCD_Final.NCESSCH,Public_Schools_2025_CCD_Final.SURVYEAR,Public_Schools_2025_CCD_Final.SCH_NAME,Public_Schools_2025_CCD_Final.LSTREET1,Public_Schools_2025_CCD_Final.LCITY,Public_Schools_2025_CCD_Final.LSTATE,Public_Schools_2025_CCD_Final.LZIP,Public_Schools_2025_CCD_Final.PHONE",
+        "returnGeometry": "false"
+      },
+      "metadata_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/iteminfo",
+      "license": "Public domain (explicit layer description and iteminfo)",
+      "response_file": "runs/discovery_scope/address_corroboration/nces_layer_0_addresses.json",
+      "sha256": "49f41702cda2d91ccd275cc8aa614f16ccfeaa16f6affffb8b2035b3efb3a6e2"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/6/query",
+      "params": {
+        "f": "pjson",
+        "where": "UPPER(NAME) LIKE '%SOUTHERN BOONE%'",
+        "outFields": "LEAID,NAME,STREET,CITY,STATE,ZIP,SCHOOLYEAR",
+        "returnGeometry": "false"
+      },
+      "metadata_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/6/iteminfo",
+      "license": "Public domain (explicit layer description and iteminfo)",
+      "response_file": "runs/discovery_scope/address_corroboration/nces_layer_6_addresses.json",
+      "sha256": "9a994c5831ff67f3fc8548db9b446ee75f964c67dff6d0369f1980b6672fa6c1"
+    }
+  ]
+}

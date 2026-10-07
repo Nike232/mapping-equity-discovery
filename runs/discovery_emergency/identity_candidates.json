@@ -1,0 +1,2028 @@
+[
+  {
+    "a": {
+      "id": "f876b80e-50ba-48d8-b32e-da5f09d61ee4",
+      "name": "Emergency Dentist 24/7",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.85,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "3510 Main St Ste E",
+          "locality": "Houston",
+          "postcode": "77002",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "8448415700"
+      ],
+      "websites": [
+        "https://www.emergencydentalservice.com/emergencydentist/houston-tx-urbn-dental-implants-and-invisalign-midtown"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "Microsoft",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "2251799821508378",
+          "update_time": "2024-11-05T18:13:03.600Z",
+          "confidence": 0.85,
+          "between": null,
+          "provider": "microsoft",
+          "resource": "microsoft",
+          "version": "2025-10-20"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "9e785fd7-c4c0-4b8b-8b20-421e7a094f29",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -95.3788825,
+      "lat": 29.7394297,
+      "GEOID": "48201410601",
+      "ur_class": "Urban",
+      "pop_total": 3444,
+      "svi_overall": 0.1896,
+      "usfs_BP_mean": 0.0,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "be200c30-c57c-43e0-b904-e3fdc6a2e929",
+      "name": "Emergency Dentist 24/7",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "3600 McKinney Ave Ste 230",
+          "locality": "Dallas",
+          "postcode": "75204",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "8448415700"
+      ],
+      "websites": [
+        "https://www.emergencydentalservice.com/emergencydentist/dallas-tx-silk-dental-wellness"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "Microsoft",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "2251799821508344",
+          "update_time": "2024-11-05T18:13:03.600Z",
+          "confidence": 0.85,
+          "between": null,
+          "provider": "microsoft",
+          "resource": "microsoft",
+          "version": "2025-10-20"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "a83f4103-2d3a-43e2-8347-d8aa2eaba6ec",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -96.7975394,
+      "lat": 32.8071344,
+      "GEOID": "48113000704",
+      "ur_class": "Urban",
+      "pop_total": 2971,
+      "svi_overall": 0.0487,
+      "usfs_BP_mean": 1.2816474015999838e-07,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 366.78,
+    "shared_phone": [
+      "8448415700"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "10f8a29d-9f56-4197-9fc0-fe6e126529b4",
+      "name": "Air Evac Lifeteam",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "800 Hospital Cir",
+          "locality": "Kingfisher",
+          "postcode": "74750",
+          "region": "OK",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18002473822"
+      ],
+      "websites": [
+        "http://www.lifeteam.net/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "212688538773590",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.7262877821922302,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "c48dff57-b4b8-4c43-9204-6711f0313a8d",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -97.94430319,
+      "lat": 35.80931178,
+      "GEOID": "40073958300",
+      "ur_class": "Rural",
+      "pop_total": 5914,
+      "svi_overall": 0.6948,
+      "usfs_BP_mean": 0.00011371985247965443,
+      "region": "eastern-ok",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [
+        "OK"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "5f0efd2d-2f37-4672-8dec-4d4d08ab1b1a",
+      "name": "Air Evac Lifeteam",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.626515805721283,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "19502 East Rogers Post Rd Ste. #5",
+          "locality": "Claremore",
+          "postcode": "74019",
+          "region": null,
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18002473822"
+      ],
+      "websites": [
+        "https://lifeteam.net"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "209108375874656",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.626515805721283,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.47596957,
+      "lat": 36.29175977,
+      "GEOID": "40131050604",
+      "ur_class": "Rural",
+      "pop_total": 3996,
+      "svi_overall": 0.5332,
+      "usfs_BP_mean": 0.002419805674245805,
+      "region": "eastern-ok",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [],
+      "address_state_mismatch": false
+    },
+    "distance_km": 228.291,
+    "shared_phone": [
+      "8002473822"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "5e1644b4-7b82-44d2-86b4-5c891e027848",
+      "name": "Miller EMS",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.8993282914161682,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "514 N 1st St",
+          "locality": "Medford",
+          "postcode": "73759-2421",
+          "region": "OK",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18773950911"
+      ],
+      "websites": [
+        "http://www.millerems.com/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "198366373588",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8993282914161682,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -97.732852,
+      "lat": 36.811554,
+      "GEOID": "40053956500",
+      "ur_class": "Rural",
+      "pop_total": 2726,
+      "svi_overall": 0.5069,
+      "usfs_BP_mean": 0.0006128834541139593,
+      "region": "eastern-ok",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [
+        "OK"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "566bd0ec-92dd-458c-8230-2278d347d022",
+      "name": "Miller Ems",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.75,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "7708 N Owasso Expy",
+          "locality": "Owasso",
+          "postcode": "74055-3338",
+          "region": "OK",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "18773950911"
+      ],
+      "websites": [
+        "https://www.millerems.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "84233906",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.75,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.8493311,
+      "lat": 36.2662059,
+      "GEOID": "40143005801",
+      "ur_class": "Urban",
+      "pop_total": 4114,
+      "svi_overall": 0.6079,
+      "usfs_BP_mean": 0.0004570286110242296,
+      "region": "eastern-ok",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [
+        "OK"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 178.863,
+    "shared_phone": [
+      "8773950911"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "ee73f8a0-4312-4eaf-b491-645ef434efac",
+      "name": "Lifecare EMS Station",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.4780694544315338,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "100 Scenic Trail",
+          "locality": "Willow Park",
+          "postcode": "76087",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18175991196"
+      ],
+      "websites": null,
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "139619866079189",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.4780694544315338,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -97.63202279,
+      "lat": 32.73768045,
+      "GEOID": "48367140714",
+      "ur_class": "Urban",
+      "pop_total": 5624,
+      "svi_overall": 0.0604,
+      "usfs_BP_mean": 0.002411139209628275,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "3750fdc7-87b3-499b-b5f3-e138c6f96a0d",
+      "name": "Lifecare EMS Station",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "1040 TX-199",
+          "locality": "Springtown",
+          "postcode": "76082",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18175991196"
+      ],
+      "websites": null,
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "169069509808039",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8385639190673828,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "f8ece7b8-a11a-498e-91da-ef7796a496e9",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -97.66185052,
+      "lat": 32.95279099,
+      "GEOID": "48367140411",
+      "ur_class": "Rural",
+      "pop_total": 5451,
+      "svi_overall": 0.3152,
+      "usfs_BP_mean": 0.004564513492699694,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 24.081,
+    "shared_phone": [
+      "8175991196"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "6633d4d6-4ae3-49b2-af22-75e8a177804b",
+      "name": "Belmont Volunteer Fire Department",
+      "category": "fire_department",
+      "confidence": 0.65,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "411 Saint Lawrence St",
+          "locality": "Gonzales",
+          "postcode": "78629-4021",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "18304243400"
+      ],
+      "websites": [
+        "https://belmontvfd.org"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "86218652",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.65,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -97.4523312,
+      "lat": 29.5017251,
+      "GEOID": "48177000400",
+      "ur_class": "Urban",
+      "pop_total": 2037,
+      "svi_overall": 0.8333,
+      "usfs_BP_mean": 9.728797333189736e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "4c196ee6-7d49-40cc-9c91-9674ad1b1796",
+      "name": "Belmont Volunteer Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "14340 U.S. 90 Alt W",
+          "locality": "Gonzales",
+          "postcode": "78629",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+18304243400"
+      ],
+      "websites": [
+        "https://belmontvfd.org/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "2014685208767855",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8130086064338684,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "d3176632-203a-4a79-8d38-889c245178c6",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -97.68828177,
+      "lat": 29.52458794,
+      "GEOID": "48177000200",
+      "ur_class": "Rural",
+      "pop_total": 5152,
+      "svi_overall": 0.8455,
+      "usfs_BP_mean": 0.0009109472074515191,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 22.973,
+    "shared_phone": [
+      "8304243400"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "ba446ed4-80d9-4d1f-adcf-2f1f6877130f",
+      "name": "Glendale Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9709108239412307,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "5800 W Glenn Dr",
+          "locality": "Glendale",
+          "postcode": "85301-2422",
+          "region": "AZ",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+16239304400"
+      ],
+      "websites": [
+        "http://www.glendaleaz.com/fire"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "281297998607440",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8735253214836121,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "f76f54ab-9357-4824-b03c-ec51058c31ac",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -112.18369132691727,
+      "lat": 33.539151436182756,
+      "GEOID": "04013092500",
+      "ur_class": "Urban",
+      "pop_total": 5616,
+      "svi_overall": 0.9886,
+      "usfs_BP_mean": 1.6205240908829782e-06,
+      "region": "maricopa-az",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "AZ",
+      "address_states": [
+        "AZ"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "e80113d6-10b3-44ff-9501-7964b61251d0",
+      "name": "Glendale Fire Department",
+      "category": "fire_department",
+      "confidence": 0.65,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "11550 W Glendale Ave",
+          "locality": "Glendale",
+          "postcode": "85307-5600",
+          "region": "AZ",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "16239304400"
+      ],
+      "websites": [
+        "https://www.glendaleaz.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "90295474",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.65,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -112.3086017,
+      "lat": 33.5378697,
+      "GEOID": "04013061011",
+      "ur_class": "Urban",
+      "pop_total": 7598,
+      "svi_overall": 0.442,
+      "usfs_BP_mean": 0.00028721130441621196,
+      "region": "maricopa-az",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "AZ",
+      "address_states": [
+        "AZ"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 11.578,
+    "shared_phone": [
+      "6239304400"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "6fbbb9ec-f09b-449e-8713-baf984df1ed6",
+      "name": "Preferred Ems",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.75,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "5100 Westheimer Rd",
+          "locality": "Houston",
+          "postcode": "77056-5596",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "17137919000"
+      ],
+      "websites": [
+        "https://www.preferredems.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "102614437",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.75,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.464944,
+      "lat": 29.741162,
+      "GEOID": "48201431803",
+      "ur_class": "Urban",
+      "pop_total": 2597,
+      "svi_overall": 0.3905,
+      "usfs_BP_mean": 0.0,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "3ef70052-ad50-4330-817d-a10cd8c9b77f",
+      "name": "Preferred Ems",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.9902192950248718,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "7535 South Fwy",
+          "locality": "Houston",
+          "postcode": "77021-5928",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "17137919000"
+      ],
+      "websites": [
+        "https://www.preferredems.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "85901520",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.95,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "72f80a0e-07aa-4278-88ca-e81a58d5bf84",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -95.3780542,
+      "lat": 29.685823,
+      "GEOID": "48201313802",
+      "ur_class": "Urban",
+      "pop_total": 2797,
+      "svi_overall": 0.9402,
+      "usfs_BP_mean": 1.2034500622493509e-08,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 10.406,
+    "shared_phone": [
+      "7137919000"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "2e36387b-2cd4-40c6-9e05-3cdc293d772d",
+      "name": "Oak Cliff Fire Protection District Station 1",
+      "category": "fire_department",
+      "confidence": 0.95,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "13425 S Bryant Ave",
+          "locality": "Edmond",
+          "postcode": "73034-8110",
+          "region": "OK",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "14053409115"
+      ],
+      "websites": [
+        "oakclifffd.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "99775508",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.95,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -97.532898,
+      "lat": 35.7396423,
+      "GEOID": "40083600802",
+      "ur_class": "Rural",
+      "pop_total": 4415,
+      "svi_overall": 0.1996,
+      "usfs_BP_mean": 0.002043271274568582,
+      "region": "eastern-ok",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [
+        "OK"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "e4c428e3-3960-462f-97c4-0c020b226ac2",
+      "name": "Oak Cliff Fire Protection District Station 1",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "13425 S Bryant Ave",
+          "locality": "Edmond",
+          "postcode": "73034-8110",
+          "region": "OK",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+14053409115"
+      ],
+      "websites": [
+        "http://www.oakclifffd.com/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "854733067898518",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8228585124015808,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "22540ef9-ca36-4581-a1cd-4a95c613f55b",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -97.46075018,
+      "lat": 35.73948008,
+      "GEOID": "40083600801",
+      "ur_class": "Urban",
+      "pop_total": 5582,
+      "svi_overall": 0.1573,
+      "usfs_BP_mean": 0.0015424865853366874,
+      "region": "eastern-ok",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "OK",
+      "address_states": [
+        "OK"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 6.512,
+    "shared_phone": [
+      "4053409115"
+    ],
+    "shared_address": [
+      "13425sbryantave|73034"
+    ]
+  },
+  {
+    "a": {
+      "id": "e2970f0b-b4f3-4dc1-91b2-63396a802c11",
+      "name": "Relief Ambulance Services",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.21093301475048065,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "1183 Brittmoore Rd",
+          "locality": "Houston",
+          "postcode": "77043",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+17133773177"
+      ],
+      "websites": [
+        "http://www.ReliefAmbulance.com/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "373962222679588",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.21093301475048065,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.57268671,
+      "lat": 29.79117737,
+      "GEOID": "48201543201",
+      "ur_class": "Urban",
+      "pop_total": 5709,
+      "svi_overall": 0.7435,
+      "usfs_BP_mean": 6.849187556863289e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "66106d94-b741-4e0c-bd4f-95a2751f7866",
+      "name": "Relief Ambulance Services",
+      "category": "ambulance_and_ems_services",
+      "confidence": 0.75,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "11601 Brittmoore Park Dr",
+          "locality": "Houston",
+          "postcode": "77041-6918",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "17133773177"
+      ],
+      "websites": [
+        "https://www.reliefambulance.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "BrightQuery",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "86749792",
+          "update_time": "2026-08-13T13:23:42.875Z",
+          "confidence": 0.75,
+          "between": null,
+          "provider": "brightquery",
+          "resource": "brightquery",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.5830073,
+      "lat": 29.8472857,
+      "GEOID": "48201540101",
+      "ur_class": "Urban",
+      "pop_total": 6790,
+      "svi_overall": 0.0228,
+      "usfs_BP_mean": 0.00010957650458721231,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 6.318,
+    "shared_phone": [
+      "7133773177"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "b718b6dc-42ad-4b23-a172-aad2f3c52d27",
+      "name": "Richardson Fire Station",
+      "category": "fire_department",
+      "confidence": 0.9600775241851807,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "1009 N Waterview Dr",
+          "locality": "Richardson",
+          "postcode": "75080",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+19727445700"
+      ],
+      "websites": [
+        "https://richardsonsteelinc.com/html/fire_station_2.html"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "102740681242533",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9600775241851807,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -96.75607507,
+      "lat": 32.96214589,
+      "GEOID": "48113019215",
+      "ur_class": "Urban",
+      "pop_total": 2880,
+      "svi_overall": 0.0472,
+      "usfs_BP_mean": 2.5085639764719498e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "d5b009ad-4a87-4977-9445-8ae07fe752c3",
+      "name": "Richardson Fire Station",
+      "category": "fire_department",
+      "confidence": 0.8470554947853088,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "1500 Apollo Rd",
+          "locality": "Richardson",
+          "postcode": "75081",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+19727445700"
+      ],
+      "websites": [
+        "https://www.cor.net/departments/fire-department/operations/station-locations"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "399047956810159",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8470554947853088,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "afc710b8-9b10-470c-ac4b-bd4bc0026582",
+          "update_time": "2026-07-13T15:52:52Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-07-13"
+        }
+      ],
+      "lon": -96.69652395,
+      "lat": 32.95285109,
+      "GEOID": "48113019023",
+      "ur_class": "Urban",
+      "pop_total": 5028,
+      "svi_overall": 0.234,
+      "usfs_BP_mean": 1.8861162196641854e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 5.651,
+    "shared_phone": [
+      "9727445700"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "76f730ac-5493-42ca-b9b1-b65fca98f1f9",
+      "name": "Surprise Fire Medical Station",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "18600 N Reems Rd",
+          "locality": "Surprise",
+          "postcode": "85374",
+          "region": "AZ",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+16232225000"
+      ],
+      "websites": [
+        "http://www.surpriseaz.gov/index.aspx?nid=8"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "110326289078573",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9166938662528992,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "1510b2c1-8806-4202-a3e6-cf117de5b487",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -112.37762677,
+      "lat": 33.65319735,
+      "GEOID": "04013040529",
+      "ur_class": "Urban",
+      "pop_total": 3603,
+      "svi_overall": 0.1212,
+      "usfs_BP_mean": 2.6843198166567676e-05,
+      "region": "maricopa-az",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "AZ",
+      "address_states": [
+        "AZ"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "3db1f17e-184f-4811-baa8-9437911cd80c",
+      "name": "Surprise Fire-Medical Station",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "15440 N Cotton Ln",
+          "locality": "Surprise",
+          "postcode": "85388",
+          "region": "AZ",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+16232225000"
+      ],
+      "websites": [
+        "http://www.surpriseaz.gov/index.aspx?nid=8"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "1449669328601220",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9792681932449341,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "b5f2ce99-b519-4b80-a070-9f7276f1491c",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -112.4278488,
+      "lat": 33.6247284,
+      "GEOID": "04013061061",
+      "ur_class": "Urban",
+      "pop_total": 3568,
+      "svi_overall": 0.1287,
+      "usfs_BP_mean": 7.0129991169153514e-06,
+      "region": "maricopa-az",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "AZ",
+      "address_states": [
+        "AZ"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 5.625,
+    "shared_phone": [
+      "6232225000"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "dc96dd31-0591-4cd3-85cf-c6d294f80296",
+      "name": "Richardson Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "1621 E Lookout Dr",
+          "locality": "Richardson",
+          "postcode": "75082",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+19727445700"
+      ],
+      "websites": [
+        "www.firedepartment.net/.../richardson-fire-department-training-center"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "162657233795234",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9729328155517578,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "7edce0a9-f864-4d1c-8ed7-adb3eb87efc8",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -96.69348004,
+      "lat": 32.98537893,
+      "GEOID": "48085031816",
+      "ur_class": "Urban",
+      "pop_total": 3228,
+      "svi_overall": 0.2888,
+      "usfs_BP_mean": 0.00011590785529720097,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "8f5fe76d-d776-4b89-9337-2e2cd439db6c",
+      "name": "Richardson Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9199122190475464,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "300 N Greenville Ave",
+          "locality": "Richardson",
+          "postcode": "75081",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+19727445700"
+      ],
+      "websites": [
+        "https://www.cor.net/departments/fire-department"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "107077045486776",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.853199303150177,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "fad8d300-0905-432a-93ab-5856bcd3dfc7",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -96.72838485,
+      "lat": 32.95035893,
+      "GEOID": "48113019102",
+      "ur_class": "Urban",
+      "pop_total": 5008,
+      "svi_overall": 0.6773,
+      "usfs_BP_mean": 1.6887065873294777e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 1,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 5.076,
+    "shared_phone": [
+      "9727445700"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "e9d4b88c-239c-445c-a135-a397b7716610",
+      "name": "Cy-Fair Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9902192950248718,
+      "operating_status": "open",
+      "addresses": [
+        {
+          "freeform": "10710 Telge Rd",
+          "locality": "Houston",
+          "postcode": "77095-5002",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+12815506663"
+      ],
+      "websites": [
+        "http://www.cyfairfd.org/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "263023817162246",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9856454730033875,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        },
+        {
+          "property": "/properties/operating_status",
+          "dataset": "Overture-signals",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "4a34cc3c-a5df-439c-80ef-68b28f1bed17",
+          "update_time": "2026-08-10T22:54:24Z",
+          "confidence": 1.0,
+          "between": null,
+          "provider": "overture",
+          "resource": "operating_status_signal",
+          "version": "2026-08-10"
+        }
+      ],
+      "lon": -95.64535084,
+      "lat": 29.92835171,
+      "GEOID": "48201541004",
+      "ur_class": "Urban",
+      "pop_total": 6236,
+      "svi_overall": 0.3365,
+      "usfs_BP_mean": 1.1570972118436763e-05,
+      "region": "south-central-tx",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "cc5fd4cc-f69c-4501-b2b8-a207532dbb62",
+      "name": "Cy-Fair Fire Department",
+      "category": "fire_department",
+      "confidence": 0.9699274897575378,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "18006 Huffmeister Rd",
+          "locality": "Cypress",
+          "postcode": "77429",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+12815506663"
+      ],
+      "websites": [
+        "http://www.cyfairfd.org/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "102146791559393",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.9699274897575378,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.69951448,
+      "lat": 29.99748462,
+      "GEOID": "48201554406",
+      "ur_class": "Urban",
+      "pop_total": 5838,
+      "svi_overall": 0.1868,
+      "usfs_BP_mean": 0.00043930463929796906,
+      "region": "south-central-tx",
+      "tract_same_category_records": 3,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 9.291,
+    "shared_phone": [
+      "2815506663"
+    ],
+    "shared_address": []
+  },
+  {
+    "a": {
+      "id": "235dda84-39a2-46f0-975e-b1c2dba94430",
+      "name": "Coffee City Fire Department",
+      "category": "fire_department",
+      "confidence": 0.8345847129821777,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "6977 H C 4217",
+          "locality": "Coffee City",
+          "postcode": "75763",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "+19038764836"
+      ],
+      "websites": [
+        "http://www.concernedcitizensofcoffeecity.wordpress.com/"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "meta",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": "108638615869426",
+          "update_time": "2026-08-10T00:00:00.000Z",
+          "confidence": 0.8345847129821777,
+          "between": null,
+          "provider": "meta",
+          "resource": "meta",
+          "version": "2026-08-10"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.49272559,
+      "lat": 32.13478242,
+      "GEOID": "48213951401",
+      "ur_class": "Rural",
+      "pop_total": 2421,
+      "svi_overall": 0.2792,
+      "usfs_BP_mean": 0.0010304261028361908,
+      "region": "south-central-tx",
+      "tract_same_category_records": 3,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "b": {
+      "id": "5caf76a5-2e95-45e5-b950-3c355a984aed",
+      "name": "Coffee City Fire Department",
+      "category": "fire_department",
+      "confidence": 0.77,
+      "operating_status": null,
+      "addresses": [
+        {
+          "freeform": "7019 County Road 4217",
+          "locality": "Frankston",
+          "postcode": "75763",
+          "region": "TX",
+          "country": "US"
+        }
+      ],
+      "phones": [
+        "(903) 876-4836"
+      ],
+      "websites": [
+        "http://www.cityofcoffeecity.com"
+      ],
+      "sources": [
+        {
+          "property": "",
+          "dataset": "Foursquare",
+          "license": "Apache-2.0",
+          "record_id": "b178355f47a14ace5053e192",
+          "update_time": "2025-08-22T00:00:00.000",
+          "confidence": 0.77,
+          "between": null,
+          "provider": "foursquare",
+          "resource": "foursquare",
+          "version": "2026-04-14"
+        },
+        {
+          "property": "/properties/confidence",
+          "dataset": "Overture",
+          "license": "CDLA-Permissive-2.0",
+          "record_id": null,
+          "update_time": "2026-08-14T19:46:07Z",
+          "confidence": null,
+          "between": null,
+          "provider": "overture",
+          "resource": "confidence_calculation",
+          "version": "2026-08-14"
+        }
+      ],
+      "lon": -95.5066390025069,
+      "lat": 32.052642285874605,
+      "GEOID": "48001950100",
+      "ur_class": "Rural",
+      "pop_total": 4641,
+      "svi_overall": 0.7862,
+      "usfs_BP_mean": 0.001435100810294519,
+      "region": "south-central-tx",
+      "tract_same_category_records": 2,
+      "minimum_tile_zoom": null,
+      "point_state": "TX",
+      "address_states": [
+        "TX"
+      ],
+      "address_state_mismatch": false
+    },
+    "distance_km": 9.227,
+    "shared_phone": [
+      "9038764836"
+    ],
+    "shared_address": []
+  }
+]

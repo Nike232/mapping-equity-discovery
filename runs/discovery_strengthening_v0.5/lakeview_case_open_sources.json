@@ -1,0 +1,86 @@
+{
+  "label": "Lakeview Elementary School",
+  "suspect_id": "c5484503-726f-4b8c-9612-1a6965679451",
+  "nces_id": "481281006371",
+  "suspect_record": {
+    "name": "Lakeview Elementary",
+    "category": "elementary_school",
+    "confidence": 0.9033488631248474,
+    "operating_status": null,
+    "lon": -99.140625,
+    "lat": 30.751277776258,
+    "GEOID": "48319950200",
+    "ur_class": "Rural",
+    "pop_total": 1784,
+    "svi_covered": true,
+    "svi_overall": 0.2778,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.001967073609426,
+    "region": "south-central-tx",
+    "tract_school_records": 1,
+    "name_key": "lakeviewelementary",
+    "id": "c5484503-726f-4b8c-9612-1a6965679451",
+    "addresses": [
+      {
+        "freeform": "6409 Lair Rd",
+        "locality": "Amarillo",
+        "postcode": "79118-3017",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.canyonisd.net/Page/7491"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "1159553867512860",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9033488631248474,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ]
+  },
+  "nces_attributes": {
+    "NCESSCH": "481281006371",
+    "SURVYEAR": "2024-2025",
+    "SCH_NAME": "LAKEVIEW EL",
+    "LSTREET1": "6407 LAIR RD",
+    "LCITY": "AMARILLO",
+    "LSTATE": "TX ",
+    "LZIP": "79118",
+    "PHONE": "(806) 677-2830",
+    "MEMBER": 388
+  },
+  "nces_point": {
+    "lon": -101.90906400020339,
+    "lat": 35.05696200019622
+  },
+  "nces_point_tract_matches": [],
+  "suspect_to_nces_km": 544.008,
+  "minimum_tile_zoom": 9,
+  "record_count_before": 1,
+  "record_count_after_individual_quarantine": 0,
+  "limitations": "No supplied matched comparator; selective public-domain NCES corroboration only. Empty tract matches means outside the supplied challenge geometries, not absent school. Quarantine changes school-labelled records, not true school/service presence. No external inventory is inserted.",
+  "identity_evidence": "Supplied Lakeview name, Canyon ISD URL, Amarillo locality, Lair Road and ZIP match public-domain NCES 481281006371. Supplied 6409 versus NCES 6407 street-number disagreement and missing supplied phone retained. No school webpage is required for this exhibit."
+}

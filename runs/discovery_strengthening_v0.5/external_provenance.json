@@ -1,0 +1,54 @@
+{
+  "purpose": "Best Bias Discovery only: one newly matched Lakeview identity and two named Happy Camp campuses. Excluded from every main-board prediction.",
+  "license": "Public domain, explicitly stated in NCES EDGE layer description and item metadata",
+  "selection": "Lakeview name, district URL, Amarillo locality, Lair Road and ZIP matched before coordinates were obtained; 6409 versus 6407 street-number discrepancy retained. Happy Camp identities already established; elementary origin is named on the safety-plan cover. Exact-ID locations requested after the no-geometry identity query. Curated cases, not a prevalence sample.",
+  "sources": [
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query",
+      "params": {
+        "f": "pjson",
+        "where": "(UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%LAKEVIEW%' AND UPPER(Public_Schools_2025_CCD_Final.LCITY)='AMARILLO') OR UPPER(Public_Schools_2025_CCD_Final.SCH_NAME) LIKE '%HAPPY CAMP%'",
+        "outFields": "Public_Schools_2025_CCD_Final.NCESSCH,Public_Schools_2025_CCD_Final.SURVYEAR,Public_Schools_2025_CCD_Final.SCH_NAME,Public_Schools_2025_CCD_Final.LSTREET1,Public_Schools_2025_CCD_Final.LCITY,Public_Schools_2025_CCD_Final.LSTATE,Public_Schools_2025_CCD_Final.LZIP,Public_Schools_2025_CCD_Final.PHONE,Public_Schools_2025_CCD_Final.MEMBER",
+        "returnGeometry": "false"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query?f=pjson&where=%28UPPER%28Public_Schools_2025_CCD_Final.SCH_NAME%29+LIKE+%27%25LAKEVIEW%25%27+AND+UPPER%28Public_Schools_2025_CCD_Final.LCITY%29%3D%27AMARILLO%27%29+OR+UPPER%28Public_Schools_2025_CCD_Final.SCH_NAME%29+LIKE+%27%25HAPPY+CAMP%25%27&outFields=Public_Schools_2025_CCD_Final.NCESSCH%2CPublic_Schools_2025_CCD_Final.SURVYEAR%2CPublic_Schools_2025_CCD_Final.SCH_NAME%2CPublic_Schools_2025_CCD_Final.LSTREET1%2CPublic_Schools_2025_CCD_Final.LCITY%2CPublic_Schools_2025_CCD_Final.LSTATE%2CPublic_Schools_2025_CCD_Final.LZIP%2CPublic_Schools_2025_CCD_Final.PHONE%2CPublic_Schools_2025_CCD_Final.MEMBER&returnGeometry=false",
+      "retrieved_at_utc": "2026-10-07T12:40:34.822224+00:00",
+      "file": "runs/discovery_strengthening_v0.5/nces_identity_selection.json",
+      "sha256": "e9c708cad947187475b56b43ac594b1c7fda7ef3fab0a69c67dad766f7fa033c"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query",
+      "params": {
+        "f": "pjson",
+        "where": "Public_Schools_2025_CCD_Final.NCESSCH IN ('061653002087','063694006277','481281006371')",
+        "outFields": "Public_Schools_2025_CCD_Final.NCESSCH,Public_Schools_2025_CCD_Final.SURVYEAR,Public_Schools_2025_CCD_Final.SCH_NAME,Public_Schools_2025_CCD_Final.LSTREET1,Public_Schools_2025_CCD_Final.LCITY,Public_Schools_2025_CCD_Final.LSTATE,Public_Schools_2025_CCD_Final.LZIP,Public_Schools_2025_CCD_Final.PHONE,Public_Schools_2025_CCD_Final.MEMBER",
+        "returnGeometry": "true",
+        "outSR": "4326"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query?f=pjson&where=Public_Schools_2025_CCD_Final.NCESSCH+IN+%28%27061653002087%27%2C%27063694006277%27%2C%27481281006371%27%29&outFields=Public_Schools_2025_CCD_Final.NCESSCH%2CPublic_Schools_2025_CCD_Final.SURVYEAR%2CPublic_Schools_2025_CCD_Final.SCH_NAME%2CPublic_Schools_2025_CCD_Final.LSTREET1%2CPublic_Schools_2025_CCD_Final.LCITY%2CPublic_Schools_2025_CCD_Final.LSTATE%2CPublic_Schools_2025_CCD_Final.LZIP%2CPublic_Schools_2025_CCD_Final.PHONE%2CPublic_Schools_2025_CCD_Final.MEMBER&returnGeometry=true&outSR=4326",
+      "retrieved_at_utc": "2026-10-07T12:40:36.200482+00:00",
+      "file": "runs/discovery_strengthening_v0.5/nces_selected_locations.json",
+      "sha256": "a03005318ceda53567b4828b829f615ad7e6693dde066001bf49c35996e0b307"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0",
+      "params": {
+        "f": "pjson"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0?f=pjson",
+      "retrieved_at_utc": "2026-10-07T12:40:37.182694+00:00",
+      "file": "runs/discovery_strengthening_v0.5/nces_layer_metadata.json",
+      "sha256": "d9fded2ad109ab0f381010a78d510f5b57b62daf925b5780ba60f22ad3f2b90a"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/iteminfo",
+      "params": {
+        "f": "pjson"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/iteminfo?f=pjson",
+      "retrieved_at_utc": "2026-10-07T12:40:38.179660+00:00",
+      "file": "runs/discovery_strengthening_v0.5/nces_item_metadata.json",
+      "sha256": "5f03c38f5da1f74910f6b606fb0654d3674c4c2f84854c74886e04684f80cce1"
+    }
+  ]
+}

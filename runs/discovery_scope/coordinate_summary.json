@@ -1,0 +1,66 @@
+{
+  "school_records": 24512,
+  "rural_records": 5278,
+  "tile_grid_records": 24,
+  "tile_grid_rural_records": 20,
+  "tile_grid_high_confidence_records": 9,
+  "tile_grid_source_counts": {
+    "meta": 24
+  },
+  "address_state_mismatch_records": 14,
+  "address_state_mismatch_high_confidence_records": 6,
+  "tile_zoom_limit": 18,
+  "tile_integer_tolerance": 1e-06,
+  "distribution": [
+    {
+      "first_source": "all",
+      "ur_class": "Rural",
+      "records": 5278,
+      "grid_flags": 20,
+      "flag_rate": 0.0037893141341417205
+    },
+    {
+      "first_source": "all",
+      "ur_class": "Urban",
+      "records": 19223,
+      "grid_flags": 4,
+      "flag_rate": 0.0002080840659626489
+    },
+    {
+      "first_source": "all",
+      "ur_class": "Unknown",
+      "records": 11,
+      "grid_flags": 0,
+      "flag_rate": 0.0
+    },
+    {
+      "first_source": "meta",
+      "ur_class": "Rural",
+      "records": 4784,
+      "grid_flags": 20,
+      "flag_rate": 0.004180602006688963
+    },
+    {
+      "first_source": "meta",
+      "ur_class": "Urban",
+      "records": 17122,
+      "grid_flags": 4,
+      "flag_rate": 0.0002336175680411167
+    },
+    {
+      "first_source": "meta",
+      "ur_class": "Unknown",
+      "records": 10,
+      "grid_flags": 0,
+      "flag_rate": 0.0
+    }
+  ],
+  "tile_grid_by_region": {
+    "eastern-ok": 2,
+    "eastern-wa": 2,
+    "maricopa-az": 3,
+    "northern-ca": 2,
+    "south-central-tx": 15
+  },
+  "interpretation": "Observed-coordinate candidates; no inferred upstream mechanism, error labels, or population impact."
+}

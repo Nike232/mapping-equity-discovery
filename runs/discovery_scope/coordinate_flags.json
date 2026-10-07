@@ -1,0 +1,2235 @@
+[
+  {
+    "name": "Piner Middle School",
+    "category": "middle_school",
+    "confidence": 0.953568398952484,
+    "operating_status": "open",
+    "lon": -96.328125,
+    "lat": 33.724339661748,
+    "GEOID": "40013795900",
+    "ur_class": "Rural",
+    "pop_total": 1607,
+    "svi_covered": true,
+    "svi_overall": 0.5544,
+    "tribal_pct": 0.9999999999999984,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0008986686552063,
+    "region": "eastern-ok",
+    "tract_school_records": 5,
+    "name_key": "pinermiddleschool",
+    "id": "7637046a-2843-45ca-9e34-20f7f7778081",
+    "addresses": [
+      {
+        "freeform": "402 Seasons W",
+        "locality": "Sherman",
+        "postcode": "75092-9719",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://piner.shermanisd.net/"
+    ],
+    "phones": [
+      "+19038916470"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "1139348906093150",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9535683989524841,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "f87dec34-93b8-4178-88cf-3fdbc1f50683",
+        "update_time": "2026-08-10T22:54:24Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-08-10"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "OK",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Pleasant Hill School",
+    "category": "elementary_school",
+    "confidence": 0.5480577945709229,
+    "operating_status": NaN,
+    "lon": -94.693822,
+    "lat": 33.7487215,
+    "GEOID": "40089098900",
+    "ur_class": "Rural",
+    "pop_total": 2309,
+    "svi_covered": true,
+    "svi_overall": 0.834,
+    "tribal_pct": 1.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0011281791264662,
+    "region": "eastern-ok",
+    "tract_school_records": 2,
+    "name_key": "pleasanthillschool",
+    "id": "2389cd3a-4927-43f3-ad21-bd1e5770c4a5",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Foreman",
+        "postcode": null,
+        "region": "AR",
+        "country": "US"
+      }
+    ],
+    "websites": null,
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "117563068295809",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.5480577945709229,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "OK",
+    "address_states": [
+      "AR"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Elgin School",
+    "category": "school",
+    "confidence": 0.646224319934845,
+    "operating_status": NaN,
+    "lon": -94.69547140345554,
+    "lat": 36.97836803337208,
+    "GEOID": "40115574100",
+    "ur_class": "Rural",
+    "pop_total": 3855,
+    "svi_covered": true,
+    "svi_overall": 0.7494,
+    "tribal_pct": 0.9999999999999958,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0010140047246986,
+    "region": "eastern-ok",
+    "tract_school_records": 5,
+    "name_key": "elginschool",
+    "id": "7df96061-9755-40f6-bbe2-96a894c3f20a",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Baxter Springs",
+        "postcode": null,
+        "region": "KS",
+        "country": "US"
+      }
+    ],
+    "websites": null,
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "110400875680068",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.646224319934845,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "OK",
+    "address_states": [
+      "KS"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Southern Boone School District",
+    "category": "school",
+    "confidence": 0.9602150917053224,
+    "operating_status": NaN,
+    "lon": -96.328125,
+    "lat": 35.460669951495,
+    "GEOID": "40107080900",
+    "ur_class": "Rural",
+    "pop_total": 3449,
+    "svi_covered": true,
+    "svi_overall": 0.8906,
+    "tribal_pct": 0.9999999999999988,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0159179059441306,
+    "region": "eastern-ok",
+    "tract_school_records": 9,
+    "name_key": "southernbooneschooldistrict",
+    "id": "fdca9dbd-4348-492d-8c21-d461c767e760",
+    "addresses": [
+      {
+        "freeform": "5275 Redtail Dr",
+        "locality": "Ashland",
+        "postcode": "65010-2102",
+        "region": "MO",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.sbschools.us/"
+    ],
+    "phones": [
+      "+15736572147"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "432359470644847",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9602150917053223,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "OK",
+    "address_states": [
+      "MO"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Plymouth Elementary School",
+    "category": "elementary_school",
+    "confidence": 0.6511744260787964,
+    "operating_status": NaN,
+    "lon": -119.3577963,
+    "lat": 45.9337438,
+    "GEOID": "53005011600",
+    "ur_class": "Rural",
+    "pop_total": 835,
+    "svi_covered": true,
+    "svi_overall": 0.8555,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0047385178749976,
+    "region": "eastern-wa",
+    "tract_school_records": 2,
+    "name_key": "plymouthelementaryschool",
+    "id": "645f443b-dccf-469e-b8ac-11e02bbb1474",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Umatilla",
+        "postcode": null,
+        "region": "OR",
+        "country": "US"
+      }
+    ],
+    "websites": null,
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "145092535519831",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.6511744260787964,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "WA",
+    "address_states": [
+      "OR"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Heatherwood Hawks ASB",
+    "category": "middle_school",
+    "confidence": 0.8917163014411926,
+    "operating_status": NaN,
+    "lon": -121.9921875,
+    "lat": 46.558860303117,
+    "GEOID": "53041972000",
+    "ur_class": "Rural",
+    "pop_total": 2877,
+    "svi_covered": true,
+    "svi_overall": 0.2881,
+    "tribal_pct": 0.0013409200288384,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0070402223679121,
+    "region": "eastern-wa",
+    "tract_school_records": 5,
+    "name_key": "heatherwoodhawksasb",
+    "id": "bf05f6f2-f2dc-45a8-88ef-95b353c51581",
+    "addresses": [
+      {
+        "freeform": "1419 Trillium Blvd SE",
+        "locality": "Mill Creek",
+        "postcode": "98012-1366",
+        "region": "WA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://www.everettsd.org/heatherwood"
+    ],
+    "phones": [
+      "+14253856300"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "2099289043667812",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.8917163014411926,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 10,
+    "point_state": "WA",
+    "address_states": [
+      "WA"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Lakewood Elementary PTA",
+    "category": "elementary_school",
+    "confidence": 0.7288208603858948,
+    "operating_status": NaN,
+    "lon": -121.640625,
+    "lat": 47.040182144807,
+    "GEOID": "53053070100",
+    "ur_class": "Rural",
+    "pop_total": 3900,
+    "svi_covered": true,
+    "svi_overall": 0.3301,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0051608309632338,
+    "region": "eastern-wa",
+    "tract_school_records": 3,
+    "name_key": "lakewoodelementarypta",
+    "id": "5804587e-8508-4a62-a8c3-4261289cb776",
+    "addresses": [
+      {
+        "freeform": "38th Dr NE, 11430",
+        "locality": "Marysville",
+        "postcode": "98271-8433",
+        "region": "WA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.spiritshop.com/school/Washington/Marysville/Lakewood_Middle_School-535093.aspx?kw=fb&utm_source=fb"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "152311678171976",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7288208603858948,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "WA",
+    "address_states": [
+      "WA"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Transform Education Now",
+    "category": "school",
+    "confidence": 0.3335241675376892,
+    "operating_status": NaN,
+    "lon": -109.6875,
+    "lat": 32.546813173515,
+    "GEOID": "04009961600",
+    "ur_class": "Rural",
+    "pop_total": 2563,
+    "svi_covered": true,
+    "svi_overall": 0.3912,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0079073629234163,
+    "region": "maricopa-az",
+    "tract_school_records": 2,
+    "name_key": "transformeducationnow",
+    "id": "a1f3c5f7-0521-431b-9950-185862ffd22d",
+    "addresses": [
+      {
+        "freeform": "6001 W 16th Ave",
+        "locality": "Lakewood",
+        "postcode": "80214-1527",
+        "region": "CO",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.transformeducationnow.org/"
+    ],
+    "phones": [
+      "+17208627414"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "942347955918107",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.3335241675376892,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "AZ",
+    "address_states": [
+      "CO"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Dodge City CC Chandler, AZ Flight Instructor Program",
+    "category": "school",
+    "confidence": 0.4553887546062469,
+    "operating_status": NaN,
+    "lon": -112.08938598633,
+    "lat": 33.344296019136,
+    "GEOID": "04013116733",
+    "ur_class": "Rural",
+    "pop_total": 11,
+    "svi_covered": true,
+    "svi_overall": NaN,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0035011404418899,
+    "region": "maricopa-az",
+    "tract_school_records": 2,
+    "name_key": "dodgecityccchandlerazflightinstructorprogram",
+    "id": "f1bae955-af2e-4559-bd07-ca468f5c0593",
+    "addresses": [
+      {
+        "freeform": "3150 S Gilbert Rd",
+        "locality": "Chandler",
+        "postcode": "85286-5102",
+        "region": "AZ",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://dc3.edu/arizona-campus/"
+    ],
+    "phones": [
+      "+14806641229"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "113173194299334",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.45538875460624695,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 18,
+    "point_state": "AZ",
+    "address_states": [
+      "AZ"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Udyan Model School",
+    "category": "private_school",
+    "confidence": 0.7659355998039246,
+    "operating_status": NaN,
+    "lon": -110.7421875,
+    "lat": 33.724339661748,
+    "GEOID": "04007940200",
+    "ur_class": "Rural",
+    "pop_total": 1825,
+    "svi_covered": true,
+    "svi_overall": 0.9212,
+    "tribal_pct": 1.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0069378168259408,
+    "region": "maricopa-az",
+    "tract_school_records": 3,
+    "name_key": "udyanmodelschool",
+    "id": "f0fe940d-fa46-492e-b3ce-f39b18da75cb",
+    "addresses": [
+      {
+        "freeform": "Tengury, Zirani, Ashulia, Saver, Dhaka.",
+        "locality": null,
+        "postcode": null,
+        "region": null,
+        "country": "US"
+      }
+    ],
+    "websites": null,
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "100360912450120",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7659355998039246,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 10,
+    "point_state": "AZ",
+    "address_states": [],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Shakti Temple Arts",
+    "category": "school",
+    "confidence": 0.1534478962421417,
+    "operating_status": NaN,
+    "lon": -122.34375,
+    "lat": 39.909736234537,
+    "GEOID": "06103000300",
+    "ur_class": "Rural",
+    "pop_total": 4682,
+    "svi_covered": true,
+    "svi_overall": 0.717,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0301837064998114,
+    "region": "northern-ca",
+    "tract_school_records": 8,
+    "name_key": "shaktitemplearts",
+    "id": "fbe4658f-8091-495b-ac35-b0c55e54fcdf",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Sebastopol",
+        "postcode": null,
+        "region": "CA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.ShaktiTempleArts.com/"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "414243248732334",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.15344789624214172,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 8,
+    "point_state": "CA",
+    "address_states": [
+      "CA"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Happy Camp High School",
+    "category": "high_school",
+    "confidence": 0.9327213168144226,
+    "operating_status": NaN,
+    "lon": -123.15673828125,
+    "lat": 41.483891042672,
+    "GEOID": "06093000800",
+    "ur_class": "Rural",
+    "pop_total": 3370,
+    "svi_covered": true,
+    "svi_overall": 0.7052,
+    "tribal_pct": 0.0009505967067994,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0210605731316554,
+    "region": "northern-ca",
+    "tract_school_records": 9,
+    "name_key": "happycamphighschool",
+    "id": "61281033-1be5-4ac5-8f3e-5a410a791fff",
+    "addresses": [
+      {
+        "freeform": "234 E Indian Creek Dr",
+        "locality": "Happy Camp",
+        "postcode": "96039",
+        "region": "CA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://www.happycamp-highschool.com/"
+    ],
+    "phones": [
+      "+15304932697"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "630991857110260",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9327213168144226,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 15,
+    "point_state": "CA",
+    "address_states": [
+      "CA"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Princeton High School",
+    "category": "high_school",
+    "confidence": 0.7154816389083862,
+    "operating_status": NaN,
+    "lon": -122.07932493,
+    "lat": 39.47183896,
+    "GEOID": "06021010502",
+    "ur_class": "Rural",
+    "pop_total": 1457,
+    "svi_covered": true,
+    "svi_overall": 0.5249,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0008310868384924,
+    "region": "northern-ca",
+    "tract_school_records": 2,
+    "name_key": "princetonhighschool",
+    "id": "21155ab6-d899-42bd-b992-daf8cc51596a",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Princeton",
+        "postcode": null,
+        "region": "NJ",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://phs.princetonk12.org/"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "183758828415481",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7154816389083862,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "CA",
+    "address_states": [
+      "NJ"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Mexia Junior High School",
+    "category": "middle_school",
+    "confidence": 0.9386854767799376,
+    "operating_status": NaN,
+    "lon": -97.056655883789,
+    "lat": 31.247443009014,
+    "GEOID": "48145000500",
+    "ur_class": "Rural",
+    "pop_total": 2048,
+    "svi_covered": true,
+    "svi_overall": 0.4299,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.000556180421302,
+    "region": "south-central-tx",
+    "tract_school_records": 4,
+    "name_key": "mexiajuniorhighschool",
+    "id": "5592b68b-8eb4-4a37-a9b7-b86530cf4a11",
+    "addresses": [
+      {
+        "freeform": "1 Blackcat Point Dr",
+        "locality": "Princeton",
+        "postcode": "04668",
+        "region": "ME",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://mexiaisd.net/"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "101463375730067",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9386854767799377,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "TX",
+    "address_states": [
+      "ME"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Marvin Primary  -Mulberry,AR.",
+    "category": "elementary_school",
+    "confidence": 0.9323832392692566,
+    "operating_status": NaN,
+    "lon": -99.984383583069,
+    "lat": 29.351534616479,
+    "GEOID": "48463950201",
+    "ur_class": "Rural",
+    "pop_total": 2440,
+    "svi_covered": true,
+    "svi_overall": 0.4835,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0008188428590594,
+    "region": "south-central-tx",
+    "tract_school_records": 2,
+    "name_key": "marvinprimarymulberryar",
+    "id": "3047b2f8-2a6d-4938-8504-53087b62caf2",
+    "addresses": [
+      {
+        "freeform": "1319 N Main St",
+        "locality": "Mulberry",
+        "postcode": "72947-8542",
+        "region": "AR",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://mulberrypleasantviewar.apptegy.us/"
+    ],
+    "phones": [
+      "+14799971495"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "181014290680049",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9323832392692566,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "TX",
+    "address_states": [
+      "AR"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Grandview Elementary First Grade",
+    "category": "elementary_school",
+    "confidence": 0.7510831356048584,
+    "operating_status": NaN,
+    "lon": -97.169952392578,
+    "lat": 32.261588020545,
+    "GEOID": "48251130501",
+    "ur_class": "Rural",
+    "pop_total": 3614,
+    "svi_covered": true,
+    "svi_overall": 0.3036,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0021845593075353,
+    "region": "south-central-tx",
+    "tract_school_records": 6,
+    "name_key": "grandviewelementaryfirstgrade",
+    "id": "b833a3af-8833-416b-978b-028adbb76fc3",
+    "addresses": [
+      {
+        "freeform": "701 Zebra Parkway",
+        "locality": "Grandview",
+        "postcode": "76050",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.gvisd.org/"
+    ],
+    "phones": [
+      "+18178664600"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "101852851464316",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7510831356048584,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 18,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "LowCounty Medical Training Center, LLC",
+    "category": "school",
+    "confidence": 0.842405378818512,
+    "operating_status": "open",
+    "lon": -95.2734375,
+    "lat": 32.546813173515,
+    "GEOID": "48423001502",
+    "ur_class": "Rural",
+    "pop_total": 3734,
+    "svi_covered": true,
+    "svi_overall": 0.7041,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.001359593140572,
+    "region": "south-central-tx",
+    "tract_school_records": 4,
+    "name_key": "lowcountymedicaltrainingcenterllc",
+    "id": "98d1a295-367b-45a8-8fbb-e4b82572ed56",
+    "addresses": [
+      {
+        "freeform": "1323 North Longstreet Street ",
+        "locality": "Lindale",
+        "postcode": "29556",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": null,
+    "phones": [
+      "+18434014216"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "104668771840388",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.842405378818512,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "cc7b11a9-3a02-4d85-bdd8-1b9538af55b4",
+        "update_time": "2026-07-13T15:52:52Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-07-13"
+      }
+    ],
+    "minimum_tile_zoom": 10,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "U.S. Grant High School",
+    "category": "school",
+    "confidence": 0.9722161889076232,
+    "operating_status": NaN,
+    "lon": -101.6015625,
+    "lat": 33.284619968888,
+    "GEOID": "48305950400",
+    "ur_class": "Rural",
+    "pop_total": 2178,
+    "svi_covered": true,
+    "svi_overall": 0.6815,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0026823148073695,
+    "region": "south-central-tx",
+    "tract_school_records": 5,
+    "name_key": "usgranthighschool",
+    "id": "a233c100-53ac-4a63-9d3f-5c236c1617c1",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": null,
+        "postcode": null,
+        "region": null,
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.okcps.org/Grant"
+    ],
+    "phones": [
+      "+14055872200"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "213886539328538",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.8893475532531738,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 11,
+    "point_state": "TX",
+    "address_states": [],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Aim High College",
+    "category": "school",
+    "confidence": 0.5301451683044434,
+    "operating_status": NaN,
+    "lon": -97.734375,
+    "lat": 30.183121842196,
+    "GEOID": "48453002448",
+    "ur_class": "Urban",
+    "pop_total": 7222,
+    "svi_covered": true,
+    "svi_overall": 0.4526,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0003902995312691,
+    "region": "south-central-tx",
+    "tract_school_records": 10,
+    "name_key": "aimhighcollege",
+    "id": "1a9ecc6c-6fe9-490a-8e1a-529d80f88380",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Austin",
+        "postcode": null,
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://aimhighcollege.com/"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "506133389548404",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.5301451683044434,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 13,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Lakeview Elementary",
+    "category": "elementary_school",
+    "confidence": 0.9033488631248474,
+    "operating_status": NaN,
+    "lon": -99.140625,
+    "lat": 30.751277776258,
+    "GEOID": "48319950200",
+    "ur_class": "Rural",
+    "pop_total": 1784,
+    "svi_covered": true,
+    "svi_overall": 0.2778,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.001967073609426,
+    "region": "south-central-tx",
+    "tract_school_records": 1,
+    "name_key": "lakeviewelementary",
+    "id": "c5484503-726f-4b8c-9612-1a6965679451",
+    "addresses": [
+      {
+        "freeform": "6409 Lair Rd",
+        "locality": "Amarillo",
+        "postcode": "79118-3017",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.canyonisd.net/Page/7491"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "1159553867512860",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9033488631248474,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Little Steps Montessori",
+    "category": "school",
+    "confidence": 0.7302505970001221,
+    "operating_status": NaN,
+    "lon": -96.61376953125,
+    "lat": 33.16514540824,
+    "GEOID": "48085030903",
+    "ur_class": "Urban",
+    "pop_total": 7763,
+    "svi_covered": true,
+    "svi_overall": 0.9868,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0004614149429408,
+    "region": "south-central-tx",
+    "tract_school_records": 4,
+    "name_key": "littlestepsmontessori",
+    "id": "e9ba9839-6edd-4dd4-b50d-67953709f5e5",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "McKinney",
+        "postcode": null,
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://little-steps-montessori-mckinney.business.site/?m=true"
+    ],
+    "phones": [
+      "+14693587126"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "129832491031608",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7302505970001221,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 15,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Kilgore Middle School",
+    "category": "middle_school",
+    "confidence": 0.9081242680549622,
+    "operating_status": NaN,
+    "lon": -94.8779296875,
+    "lat": 32.287132632616,
+    "GEOID": "48401950400",
+    "ur_class": "Rural",
+    "pop_total": 4985,
+    "svi_covered": true,
+    "svi_overall": 0.7871,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0010952861037313,
+    "region": "south-central-tx",
+    "tract_school_records": 7,
+    "name_key": "kilgoremiddleschool",
+    "id": "cbf10a4a-d665-4de1-a9aa-49533793aa79",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": null,
+        "postcode": null,
+        "region": null,
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://kms.kisd.org/"
+    ],
+    "phones": null,
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "352925375129272",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9081242680549622,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 13,
+    "point_state": "TX",
+    "address_states": [],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Marc Alvarez",
+    "category": "elementary_school",
+    "confidence": 0.9421303272247314,
+    "operating_status": NaN,
+    "lon": -96.638082,
+    "lat": 33.081239,
+    "GEOID": "48085031411",
+    "ur_class": "Urban",
+    "pop_total": 6037,
+    "svi_covered": true,
+    "svi_overall": 0.0768,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0002282640480739,
+    "region": "south-central-tx",
+    "tract_school_records": 4,
+    "name_key": "marcalvarez",
+    "id": "b0149c1e-d64d-480a-aacc-da775ab519d2",
+    "addresses": [
+      {
+        "freeform": "520 Hardee St",
+        "locality": "Dallas",
+        "postcode": "30132-4713",
+        "region": "GA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://www.allenisd.org/Domain/3556"
+    ],
+    "phones": [
+      "+17704438018"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "100216211632582",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9421303272247314,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "TX",
+    "address_states": [
+      "GA"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Chris Cross Learning Center",
+    "category": "school",
+    "confidence": 0.9037081003189088,
+    "operating_status": NaN,
+    "lon": -98.708511623972,
+    "lat": 31.143673819961,
+    "GEOID": "48411950200",
+    "ur_class": "Rural",
+    "pop_total": 3170,
+    "svi_covered": true,
+    "svi_overall": 0.6382,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0027696391385325,
+    "region": "south-central-tx",
+    "tract_school_records": 3,
+    "name_key": "chriscrosslearningcenter",
+    "id": "d142ae71-24b9-4b76-8ace-8a1164d23b96",
+    "addresses": [
+      {
+        "freeform": "100 S Santa Fe St",
+        "locality": "Moore",
+        "postcode": "73160",
+        "region": "OK",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.chriscrosslearningcenter.com/"
+    ],
+    "phones": [
+      "+14053149793"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "390549950957571",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9037081003189087,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "TX",
+    "address_states": [
+      "OK"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Schimelpfenig Middle School",
+    "category": "school",
+    "confidence": 0.9722161889076232,
+    "operating_status": "open",
+    "lon": -96.751098632812,
+    "lat": 33.063924198121,
+    "GEOID": "48085031636",
+    "ur_class": "Urban",
+    "pop_total": 6554,
+    "svi_covered": true,
+    "svi_overall": 0.3747,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 8.247028137675604e-06,
+    "region": "south-central-tx",
+    "tract_school_records": 3,
+    "name_key": "schimelpfenigmiddleschool",
+    "id": "60462144-2a2d-46ac-a297-d0d89902b9e4",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Plano",
+        "postcode": null,
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.pisd.edu/schimelpfenig"
+    ],
+    "phones": [
+      "+14697526400"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "1824512921168246",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9305753111839294,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "8753404c-d533-49cc-920e-a9a4a661928e",
+        "update_time": "2026-07-13T15:52:52Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-07-13"
+      }
+    ],
+    "minimum_tile_zoom": 16,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Seagoville Middle School",
+    "category": "public_school",
+    "confidence": 0.9475890398025512,
+    "operating_status": NaN,
+    "lon": -96.240234375,
+    "lat": 32.528289364825,
+    "GEOID": "48257051201",
+    "ur_class": "Rural",
+    "pop_total": 3817,
+    "svi_covered": true,
+    "svi_overall": 0.7641,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0013570082235492,
+    "region": "south-central-tx",
+    "tract_school_records": 1,
+    "name_key": "seagovillemiddleschool",
+    "id": "cc1ded36-062a-4468-a18e-695aa1bb52f4",
+    "addresses": [
+      {
+        "freeform": "950 N. Woody Rd.",
+        "locality": "Seagoville",
+        "postcode": "75253",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.dallasisd.org/seagovillems"
+    ],
+    "phones": [
+      "+19728927100"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "298426350925177",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9475890398025513,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 14,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "East St John High School",
+    "category": "elementary_school",
+    "confidence": 0.55,
+    "operating_status": "open",
+    "lon": -98.21106,
+    "lat": 26.253988,
+    "GEOID": "48215023535",
+    "ur_class": "Urban",
+    "pop_total": 3321,
+    "svi_covered": true,
+    "svi_overall": 0.6124,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 4.834904583889811e-06,
+    "region": "south-central-tx",
+    "tract_school_records": 3,
+    "name_key": "eaststjohnhighschool",
+    "id": "06a31d77-2c26-4093-947b-1700edbcbf64",
+    "addresses": [
+      {
+        "freeform": "1 Giordano Ln",
+        "locality": "Reserve",
+        "postcode": "70084-5800",
+        "region": "LA",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://esjh.stjohn.k12.la.us"
+    ],
+    "phones": [
+      "+19855364226"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "BrightQuery",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "92258842",
+        "update_time": "2026-08-13T13:23:42.875Z",
+        "confidence": 0.55,
+        "between": null,
+        "provider": "brightquery",
+        "resource": "brightquery",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": null,
+    "point_state": "TX",
+    "address_states": [
+      "LA"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Co-Lin Early Childhood Education",
+    "category": "school",
+    "confidence": 0.7328811883926392,
+    "operating_status": NaN,
+    "lon": -95.965576171875,
+    "lat": 29.649868677972,
+    "GEOID": "48157673300",
+    "ur_class": "Urban",
+    "pop_total": 8025,
+    "svi_covered": true,
+    "svi_overall": 0.1134,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0012956661821525,
+    "region": "south-central-tx",
+    "tract_school_records": 2,
+    "name_key": "colinearlychildhoodeducation",
+    "id": "90cc8a22-01e8-4094-87c1-d1688139ea08",
+    "addresses": [
+      {
+        "freeform": "1004 Oak St",
+        "locality": "Wesson",
+        "postcode": "39191-9773",
+        "region": "MS",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.colin.edu/"
+    ],
+    "phones": [
+      "+16016438451"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "110395661624164",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7328811883926392,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 15,
+    "point_state": "TX",
+    "address_states": [
+      "MS"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "BAMO 9th Grade Campus",
+    "category": "high_school",
+    "confidence": 0.7906635403633118,
+    "operating_status": NaN,
+    "lon": -98.4375,
+    "lat": 27.683528083788,
+    "GEOID": "48131950500",
+    "ur_class": "Rural",
+    "pop_total": 2280,
+    "svi_covered": true,
+    "svi_overall": 0.9068,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0019129337324877,
+    "region": "south-central-tx",
+    "tract_school_records": 6,
+    "name_key": "bamo9thgradecampus",
+    "id": "8b45af00-ba24-4a0d-ab0e-99fc41bb3405",
+    "addresses": [
+      {
+        "freeform": null,
+        "locality": "Lancaster",
+        "postcode": null,
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://ngc.lancasterisd.org/"
+    ],
+    "phones": [
+      "+19722181880"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "2246080138997585",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7906635403633118,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "USD #327 Ellsworth/Kanopolis/Geneseo",
+    "category": "public_school",
+    "confidence": 0.8217124938964844,
+    "operating_status": NaN,
+    "lon": -98.7890625,
+    "lat": 27.059125784374,
+    "GEOID": "48247950400",
+    "ur_class": "Rural",
+    "pop_total": 2746,
+    "svi_covered": true,
+    "svi_overall": 0.8112,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0023059392973723,
+    "region": "south-central-tx",
+    "tract_school_records": 2,
+    "name_key": "usd327ellsworthkanopolisgeneseo",
+    "id": "651bdc16-1e53-4fbf-a532-2384b2eb919e",
+    "addresses": [
+      {
+        "freeform": "145 W 15th Street",
+        "locality": "Ellsworth",
+        "postcode": "67439",
+        "region": "KS",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://usd327.org/"
+    ],
+    "phones": [
+      "+17854725561"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "245309362161657",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.8217124938964844,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 10,
+    "point_state": "TX",
+    "address_states": [
+      "KS"
+    ],
+    "address_state_mismatch": true
+  },
+  {
+    "name": "Little Medical School South Texas",
+    "category": "school",
+    "confidence": 0.7757439017295837,
+    "operating_status": NaN,
+    "lon": -98.7890625,
+    "lat": 26.90247688628,
+    "GEOID": "48247950400",
+    "ur_class": "Rural",
+    "pop_total": 2746,
+    "svi_covered": true,
+    "svi_overall": 0.8112,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0023059392973723,
+    "region": "south-central-tx",
+    "tract_school_records": 2,
+    "name_key": "littlemedicalschoolsouthtexas",
+    "id": "de839d4d-a7a7-4b24-bc45-172b56b049b6",
+    "addresses": [
+      {
+        "freeform": "111 S Teel Dr",
+        "locality": "Devine",
+        "postcode": "78016-2936",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.southtexaslms.com/"
+    ],
+    "phones": [
+      "+19566163506"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "100538005022128",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.7757439017295837,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      }
+    ],
+    "minimum_tile_zoom": 11,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Moe & Gene Johnson High School",
+    "category": "high_school",
+    "confidence": 0.9722161889076232,
+    "operating_status": "open",
+    "lon": -98.4375,
+    "lat": 27.059125784374,
+    "GEOID": "48047950100",
+    "ur_class": "Rural",
+    "pop_total": 2236,
+    "svi_covered": true,
+    "svi_overall": 0.9109,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0033428802628112,
+    "region": "south-central-tx",
+    "tract_school_records": 1,
+    "name_key": "moegenejohnsonhighschool",
+    "id": "2b483ffc-45d6-41a3-9e15-252141a28c15",
+    "addresses": [
+      {
+        "freeform": "967 Ruby Ranch Rd",
+        "locality": "Buda",
+        "postcode": "78610-3186",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "https://www.hayscisd.net/jhsopen"
+    ],
+    "phones": [
+      "+15122688512"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "382280792586085",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.9620963931083679,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "11609dcc-3f6c-46ba-8d15-95c960bb5491",
+        "update_time": "2026-08-10T22:54:24Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-08-10"
+      }
+    ],
+    "minimum_tile_zoom": 7,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  },
+  {
+    "name": "Secretaría de Educación de Tamaulipas",
+    "category": "school",
+    "confidence": 0.8152419328689575,
+    "operating_status": "open",
+    "lon": -98.4375,
+    "lat": 28.921631282421,
+    "GEOID": "48013960102",
+    "ur_class": "Rural",
+    "pop_total": 3771,
+    "svi_covered": true,
+    "svi_overall": 0.842,
+    "tribal_pct": 0.0,
+    "usfs_covered": true,
+    "usfs_BP_mean": 0.0016589504784023,
+    "region": "south-central-tx",
+    "tract_school_records": 2,
+    "name_key": "secretaradeeducacindetamaulipas",
+    "id": "7e75bd8c-ad35-4f1f-9a4e-1be03438942c",
+    "addresses": [
+      {
+        "freeform": "Calz. Gral. Luis Caballero S/N, Fracc. Las Flores",
+        "locality": "Pleasanton",
+        "postcode": "87078",
+        "region": "TX",
+        "country": "US"
+      }
+    ],
+    "websites": [
+      "http://www.tamaulipas.gob.mx/educacion/"
+    ],
+    "phones": [
+      "+528343186602"
+    ],
+    "sources": [
+      {
+        "property": "",
+        "dataset": "meta",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "1559502067636889",
+        "update_time": "2026-08-10T00:00:00.000Z",
+        "confidence": 0.8152419328689575,
+        "between": null,
+        "provider": "meta",
+        "resource": "meta",
+        "version": "2026-08-10"
+      },
+      {
+        "property": "/properties/confidence",
+        "dataset": "Overture",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": null,
+        "update_time": "2026-08-14T19:46:07Z",
+        "confidence": null,
+        "between": null,
+        "provider": "overture",
+        "resource": "confidence_calculation",
+        "version": "2026-08-14"
+      },
+      {
+        "property": "/properties/operating_status",
+        "dataset": "Overture-signals",
+        "license": "CDLA-Permissive-2.0",
+        "record_id": "deb3b1b7-e7a1-485d-b9e9-1b6f15cece7c",
+        "update_time": "2026-05-12T00:29:08Z",
+        "confidence": 1.0,
+        "between": null,
+        "provider": "overture",
+        "resource": "operating_status_signal",
+        "version": "2026-05-11"
+      }
+    ],
+    "minimum_tile_zoom": 9,
+    "point_state": "TX",
+    "address_states": [
+      "TX"
+    ],
+    "address_state_mismatch": false
+  }
+]

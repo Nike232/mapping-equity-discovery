@@ -1,0 +1,23 @@
+{
+  "selection": {
+    "FDID": "42011",
+    "HQ state": "OK"
+  },
+  "records": [
+    {
+      "FDID": "42011",
+      "Fire dept name": "Oak Cliff Fire Protection District",
+      "HQ addr1": "13425 S Bryant AVE",
+      "HQ addr2": "",
+      "HQ city": "Edmond",
+      "HQ state": "OK",
+      "HQ zip": "73034-8110",
+      "HQ phone": "405-340-9115",
+      "County": "Oklahoma",
+      "Dept Type": "Mostly volunteer",
+      "Organization Type": "Local (includes career, combination, and volunteer fire departments and fire districts)"
+    }
+  ],
+  "scope": "One department identity/HQ address and role; no station inventory, counts, personnel statistics or coordinates retained.",
+  "currency": "Registry no longer accepts updates; source page says downloads reflect records added/changed before June 2026. Not current incident or facility-status proof."
+}

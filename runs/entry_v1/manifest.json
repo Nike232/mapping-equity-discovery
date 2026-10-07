@@ -1,0 +1,38 @@
+{
+  "version": "v1_zero_prior",
+  "prepared_on": "2026-10-07",
+  "competition": "bias-bounty-mapping-equity-challenge",
+  "rows": 9794,
+  "unique_geoids": 9794,
+  "missing_ids": 0,
+  "extra_ids": 0,
+  "columns": [
+    "GEOID",
+    "coverage_gap_score"
+  ],
+  "prediction": "constant 0.0",
+  "score_min": 0.0,
+  "score_max": 0.0,
+  "non_finite": 0,
+  "input": "data/metadata/SampleSubmission.csv",
+  "input_sha256": "32fb5c2984317d4abf8a98b88b7bb9d16e9eef1cda9a954c37da0a2cdd367f40",
+  "output": "runs/entry_v1/mapping_equity_v1_zero_prior.csv",
+  "output_sha256": "33a508747613cae89acd6170875ae395cbe2a0059fe36356138a99e061e8b15d",
+  "output_bytes": 156729,
+  "prediction_inputs": "GEOID only; no sample score/component or external data read",
+  "rationale": "Explicit zero-gap prior to establish the first valid official RMSE; not a learned model, not a claim that actual gaps are zero",
+  "change_from_existing_rejected_upload": "Replaces nonmatching 1,030 generic IDs and TargetF1/TargetRAUC with this competition's complete tract universe and target schema",
+  "validation": "Schema, exact ordered ID coverage, uniqueness, finite [0,1] outputs only; no local target labels or RMSE",
+  "expected_benefit": "First valid official score and entry ID; performance improvement and prize eligibility of the discovery writeup are not established",
+  "limitations": "Uncalibrated constant prediction ignores tract variation. Discovery v0.2 remains separate and its writeup submission mechanism is unresolved.",
+  "submission_authorization": "User explicitly requested 提交一版 on 2026-10-07; one manual browser submission only",
+  "status": "submitted manually by the user; official public score verified in Chrome on 2026-10-07",
+  "official_result": {
+    "submission_id": "2cQVvovS",
+    "submitter": "tomfng",
+    "public_rmse": 0.107246299,
+    "public_rank_at_check": 220,
+    "verified_at_utc": "2026-10-07T05:59:50Z",
+    "record": "runs/entry_v1/official_result.json"
+  }
+}

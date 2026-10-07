@@ -1,0 +1,24 @@
+{
+  "version": "v1_zero_prior",
+  "competition": "bias-bounty-mapping-equity-challenge",
+  "submission_id": "2cQVvovS",
+  "submitter": "tomfng",
+  "platform_filename": "mapping_equity_v1_zero_prior.csv",
+  "local_output_sha256": "33a508747613cae89acd6170875ae395cbe2a0059fe36356138a99e061e8b15d",
+  "file_identity_evidence": "User reported manual submission; platform filename matches the prepared file. Uploaded bytes were not downloaded for a hash comparison.",
+  "public_rmse": 0.107246299,
+  "public_rank_at_check": 220,
+  "successful_submissions_at_check": 1,
+  "total_submission_limit_displayed": 200,
+  "bias_scorecard": "All nine displayed indicators have Unavailable for both Disparity Ratio and Coverage Gap",
+  "verified_at_utc": "2026-10-07T05:59:50Z",
+  "verification": "Read-only observation of the authenticated submissions row and the leaderboard's current-user row through built-in Chrome integration",
+  "sources": [
+    "https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/submissions",
+    "https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/leaderboard"
+  ],
+  "local_rmse": null,
+  "private_rmse": null,
+  "interpretation": "First accepted numerical baseline. A single aggregate RMSE does not identify tract labels, regional errors or the best nonzero constant. No official improvement over an earlier accepted entry can be claimed.",
+  "special_prize_status": "Discovery writeup v0.2 remains a local draft; the numerical submission does not establish that it has been delivered for judging."
+}

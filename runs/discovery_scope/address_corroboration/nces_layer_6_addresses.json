@@ -1,0 +1,69 @@
+{
+  "displayFieldName": "NAME",
+  "fieldAliases": {
+    "LEAID": "LEAID",
+    "NAME": "NAME",
+    "STREET": "STREET",
+    "CITY": "CITY",
+    "STATE": "STATE",
+    "ZIP": "ZIP",
+    "SCHOOLYEAR": "SCHOOLYEAR"
+  },
+  "fields": [
+    {
+      "name": "LEAID",
+      "type": "esriFieldTypeString",
+      "alias": "LEAID",
+      "length": 7
+    },
+    {
+      "name": "NAME",
+      "type": "esriFieldTypeString",
+      "alias": "NAME",
+      "length": 60
+    },
+    {
+      "name": "STREET",
+      "type": "esriFieldTypeString",
+      "alias": "STREET",
+      "length": 44
+    },
+    {
+      "name": "CITY",
+      "type": "esriFieldTypeString",
+      "alias": "CITY",
+      "length": 25
+    },
+    {
+      "name": "STATE",
+      "type": "esriFieldTypeString",
+      "alias": "STATE",
+      "length": 2
+    },
+    {
+      "name": "ZIP",
+      "type": "esriFieldTypeString",
+      "alias": "ZIP",
+      "length": 254
+    },
+    {
+      "name": "SCHOOLYEAR",
+      "type": "esriFieldTypeString",
+      "alias": "SCHOOLYEAR",
+      "length": 9
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "LEAID": "2928560",
+        "NAME": "SOUTHERN BOONE CO. R-I",
+        "STREET": "5275 W Red Tail Dr",
+        "CITY": "ASHLAND",
+        "STATE": "MO",
+        "ZIP": "65010",
+        "SCHOOLYEAR": "2024-2025"
+      }
+    }
+  ]
+}

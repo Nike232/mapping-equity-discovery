@@ -1,0 +1,353 @@
+{
+  "version": "0.6",
+  "variant": "Discovery evidence core with independently registered emergency institution",
+  "associated_entry": "2cQVvovS",
+  "status_at_freeze": "prepared; not published or formally delivered",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1201,
+      "sha256": "ecffad02374c3c2fd34c0e5f29408c84e891ff7945768c9c79217d330256dc59"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 3576,
+      "sha256": "f9521521fc7a7d98c1f26dc6a1cbcc69d7aef7f4147def8cb8f488adbcc55ea1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6263,
+      "sha256": "8c96d53315a0d1c630b7c56907749399b6ab18ec601df3cdca3fc219a6697209"
+    },
+    {
+      "path": "SUBMISSION_README.md",
+      "bytes": 6263,
+      "sha256": "8c96d53315a0d1c630b7c56907749399b6ab18ec601df3cdca3fc219a6697209"
+    },
+    {
+      "path": "data/metadata/SampleSubmission.csv",
+      "bytes": 919898,
+      "sha256": "32fb5c2984317d4abf8a98b88b7bb9d16e9eef1cda9a954c37da0a2cdd367f40"
+    },
+    {
+      "path": "data/metadata/extension_manifest.json",
+      "bytes": 1881,
+      "sha256": "9c41bacf5690096133393e4f2af4956ecb695087f79b0750eed409ef0e63e66e"
+    },
+    {
+      "path": "data/metadata/oak_cliff_roads_manifest.json",
+      "bytes": 530,
+      "sha256": "9c44f4805f1539b2571a1361b8a24063936d0d81ae22bd20b51b9e18e4a3c3d1"
+    },
+    {
+      "path": "data/metadata/screen_manifest.json",
+      "bytes": 21582,
+      "sha256": "8a9cea7f71f274327afc8a159470fac3f625a6de30ebc0492298acd233c9173a"
+    },
+    {
+      "path": "data/metadata/source_README.md",
+      "bytes": 34202,
+      "sha256": "8016f18a9a6297e398e7eebdd7bd0760f138bfa1b485f7ed2961f6ba1d88f136"
+    },
+    {
+      "path": "requirements-discovery.txt",
+      "bytes": 77,
+      "sha256": "8d3f6f6beadabaa5986b0b74194fe1c1240dbbb42debe3251e0480ba06cbf52a"
+    },
+    {
+      "path": "runs/discovery_emergency/coordinate_candidates.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "runs/discovery_emergency/identity_candidates.json",
+      "bytes": 60006,
+      "sha256": "9b5ccd57b77a47e518945b2cb925c1d01bbf12cdebf13c4a0197034eb9f029b4"
+    },
+    {
+      "path": "runs/discovery_emergency/oak_cliff_case.json",
+      "bytes": 8476,
+      "sha256": "c5fa44f21c31a227b8a0cc221659e8e129cfaf3284a5f11814a30f21229cccdb"
+    },
+    {
+      "path": "runs/discovery_emergency/oak_cliff_conflict.png",
+      "bytes": 265540,
+      "sha256": "2ef52fb424e692b4920ef580d14d79ee710835b844830655770ace940c97553a"
+    },
+    {
+      "path": "runs/discovery_emergency/summary.json",
+      "bytes": 517,
+      "sha256": "69610522a5e46c50ca96be8115a4a3b5a13eaac9070cc1bd31dc7bb02922f699"
+    },
+    {
+      "path": "runs/discovery_scope/address_corroboration/nces_layer_0_addresses.json",
+      "bytes": 7587,
+      "sha256": "49f41702cda2d91ccd275cc8aa614f16ccfeaa16f6affffb8b2035b3efb3a6e2"
+    },
+    {
+      "path": "runs/discovery_scope/address_corroboration/nces_layer_0_metadata.json",
+      "bytes": 2536,
+      "sha256": "5f03c38f5da1f74910f6b606fb0654d3674c4c2f84854c74886e04684f80cce1"
+    },
+    {
+      "path": "runs/discovery_scope/address_corroboration/nces_layer_6_addresses.json",
+      "bytes": 1395,
+      "sha256": "9a994c5831ff67f3fc8548db9b446ee75f964c67dff6d0369f1980b6672fa6c1"
+    },
+    {
+      "path": "runs/discovery_scope/address_corroboration/nces_layer_6_metadata.json",
+      "bytes": 3365,
+      "sha256": "ba32267c3034bb05a84f38cd0e7211944c9fbcf9227b15c450fd10de1516f07b"
+    },
+    {
+      "path": "runs/discovery_scope/address_corroboration/provenance.json",
+      "bytes": 2227,
+      "sha256": "be4d333e9708983c8e3b030940fd1c2e3dcef902353ac23c7eb18b346522b826"
+    },
+    {
+      "path": "runs/discovery_scope/coordinate_flags.json",
+      "bytes": 61859,
+      "sha256": "6344f2c4ab720b55290a16a4af80c887383e113109b8367957966c55b186b28d"
+    },
+    {
+      "path": "runs/discovery_scope/coordinate_summary.json",
+      "bytes": 1625,
+      "sha256": "376143249a4831448365c6350d08262b72a6f14aecd024e2cb7c8796be682cc3"
+    },
+    {
+      "path": "runs/discovery_scope/provenance.json",
+      "bytes": 6594,
+      "sha256": "310e67acc7ddde34539a4887216c14a5810bcda00f1276fe257ce72469d9926f"
+    },
+    {
+      "path": "runs/discovery_scope/reviewed_cases.csv",
+      "bytes": 2831,
+      "sha256": "b4009ed809c6a3b504ef1c59110721f43f3df6830dd222754a4b3f8771001a50"
+    },
+    {
+      "path": "runs/discovery_scope/reviewed_cases.json",
+      "bytes": 53510,
+      "sha256": "58f6f2e4f47734247b2bc12bac5d854b4846a30131e4e320e8bfab1f2b7bb640"
+    },
+    {
+      "path": "runs/discovery_scope/summary.json",
+      "bytes": 528,
+      "sha256": "1ab8f49089eeacd20d1a7e04e2d9b854876947b2fe9e0c51ca1892f27e5e68a1"
+    },
+    {
+      "path": "runs/discovery_scope/tile_grid_candidates.csv",
+      "bytes": 6256,
+      "sha256": "b38ea6d1d04758ce4e4d9671dc24445cc441b9095d07709ddf0e7eb6eab1fe91"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/external_provenance.json",
+      "bytes": 3377,
+      "sha256": "d002e57cfc0c9fa9830c5398cc048ed1b06fc5661fc79c6f33303c8381c42928"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/independent_location_results.json",
+      "bytes": 14093,
+      "sha256": "34e818d1dcec0724c94980f5777fead636d5025606870cc9d2b634b1423f02ae"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/independent_school_locations.png",
+      "bytes": 148298,
+      "sha256": "8bbc1f7db15ab591bcd90d026a011b89c5b387655a1cde93cb379e656337b3fb"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/nces_item_metadata.json",
+      "bytes": 2536,
+      "sha256": "5f03c38f5da1f74910f6b606fb0654d3674c4c2f84854c74886e04684f80cce1"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/nces_layer_metadata.json",
+      "bytes": 23037,
+      "sha256": "d9fded2ad109ab0f381010a78d510f5b57b62daf925b5780ba60f22ad3f2b90a"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.4/nces_selected_school_locations.json",
+      "bytes": 11702,
+      "sha256": "f681572cc2b88b9c450d807ea2c9c39ec6d17a72c599a93bd5dd3758d2047e3d"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/delivery_check_2026-10-07.json",
+      "bytes": 642,
+      "sha256": "707d71cb6ec7391fc19245fd4433c0a96ea29d37759f08ed9205a81583d0a3b2"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/external_provenance.json",
+      "bytes": 4873,
+      "sha256": "e7829938bbad206cb5cae7140c8eea5e208f34d99ceb1062e310e78c0740e87c"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/happy_camp_identity_lookup.png",
+      "bytes": 190512,
+      "sha256": "fe1460b206de14ae3ff569edd617b01d973959c9be60b6b431fd7aba91a8ffd5"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/happy_camp_identity_results.json",
+      "bytes": 8922,
+      "sha256": "77f3a55285e09d34e04e8cc4b4066ca38858313fb2921cbf3c33bde8e088c9d0"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/independent_location_results.json",
+      "bytes": 15045,
+      "sha256": "2a291ba44557a6a7b182caeacce1c74ccc25f531df21bf260cf71a9c365a741f"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/lakeview_case_open_sources.json",
+      "bytes": 2940,
+      "sha256": "b5a806550e16463d508be54c9d47b17da5b1865a9ef0435e2b025c9ef11d90b9"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/nces_identity_selection.json",
+      "bytes": 4150,
+      "sha256": "e9c708cad947187475b56b43ac594b1c7fda7ef3fab0a69c67dad766f7fa033c"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/nces_item_metadata.json",
+      "bytes": 2536,
+      "sha256": "5f03c38f5da1f74910f6b606fb0654d3674c4c2f84854c74886e04684f80cce1"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/nces_layer_metadata.json",
+      "bytes": 23037,
+      "sha256": "d9fded2ad109ab0f381010a78d510f5b57b62daf925b5780ba60f22ad3f2b90a"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.5/nces_selected_locations.json",
+      "bytes": 4557,
+      "sha256": "a03005318ceda53567b4828b829f615ad7e6693dde066001bf49c35996e0b307"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/census_station_address.json",
+      "bytes": 1074,
+      "sha256": "30d0c830415f08b22c2c8f41b37d293416179f3a60c9d10bc85455f57ff9f99b"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/discovery_writeup_v0.6.md",
+      "bytes": 19321,
+      "sha256": "f7ac6fa3fb9abb780eedbdd46172467de19d917a5a1d4f7186a24dde7b7f2f2a"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/external_provenance.json",
+      "bytes": 3155,
+      "sha256": "a5372ae7861a7bbb7ff93c43f4389e625f4ffa85d2e6bf87e245bd8e674bc235"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/fema_reuse_policy.json",
+      "bytes": 1303,
+      "sha256": "823916195585fc40291192c6e334f26dbefebb52e1e7de50cdb92c5ee474a54c"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/station_address_results.json",
+      "bytes": 2576,
+      "sha256": "4bd1ba8b8cf3766375f868e647689cf96e6d47a60129fa7c3e82953de06fc157"
+    },
+    {
+      "path": "runs/discovery_strengthening_v0.6/usfa_selected_department.json",
+      "bytes": 876,
+      "sha256": "5b26dd765a66fa4c15878d4f9698887e8fc43d63a0b1c1864a40e5f91598352d"
+    },
+    {
+      "path": "runs/entry_v1/manifest.json",
+      "bytes": 2020,
+      "sha256": "29d5039adc83ed83e1ebee3846409281a3b09aaf02fc55ef3e2a52fcfdea7922"
+    },
+    {
+      "path": "runs/entry_v1/mapping_equity_v1_zero_prior.csv",
+      "bytes": 156729,
+      "sha256": "33a508747613cae89acd6170875ae395cbe2a0059fe36356138a99e061e8b15d"
+    },
+    {
+      "path": "runs/entry_v1/methodology.md",
+      "bytes": 2493,
+      "sha256": "04ec5d00f7be0f34199a68c78c7cabe84fbb5c7f013eae7008eae9c46966797c"
+    },
+    {
+      "path": "runs/entry_v1/official_result.json",
+      "bytes": 1554,
+      "sha256": "141f8bdd283f46601943a7481d38c705e4aae3c86b719b89bf37979c5f2c9c21"
+    },
+    {
+      "path": "scripts/corroborate_school_addresses.py",
+      "bytes": 3121,
+      "sha256": "15d7f483e2932c0cc47058ddd3546ea2a04b04ddd3bc7daaac29817134df19e0"
+    },
+    {
+      "path": "scripts/find_coordinate_artifacts.py",
+      "bytes": 5089,
+      "sha256": "430e35a853e137c326dd21cff6b28a65870f1d75d1f480b048da4a4a9aa25165"
+    },
+    {
+      "path": "scripts/make_first_entry.py",
+      "bytes": 3731,
+      "sha256": "07bb180d82279bfede00f65284be3e831748ae1f879464412193ea9ede676995"
+    },
+    {
+      "path": "scripts/measure_discovery_evacuation_v05.py",
+      "bytes": 17785,
+      "sha256": "d9e90fdc48fe482d3f0e8259cca1ffb6759be1b726b715919ff4f24ba1e923db"
+    },
+    {
+      "path": "scripts/measure_discovery_independent_locations.py",
+      "bytes": 9972,
+      "sha256": "2d64a37d4482407e789bcf12f6cb11cb5d9c133832f73ee8028d3bd796d1e0fb"
+    },
+    {
+      "path": "scripts/measure_oak_cliff_case.py",
+      "bytes": 7667,
+      "sha256": "5a22d03d99a60b7bad3417cf9cc1870f3a7f46fb12411ea7d9cee5fa47195df6"
+    },
+    {
+      "path": "scripts/measure_scope_cases.py",
+      "bytes": 11242,
+      "sha256": "9d19ec335a194341253da3113746bc9f52a4e8a6a564bdd2b493dc0ede2f6085"
+    },
+    {
+      "path": "scripts/measure_station_address_v06.py",
+      "bytes": 9386,
+      "sha256": "3c8456e9e3805b3cb9b53313538b6c8f28276853461685f26d581a7c4ac010c3"
+    },
+    {
+      "path": "scripts/prepare_discovery_scope.py",
+      "bytes": 3053,
+      "sha256": "69a780e52106caa27a2111bf91f067f7b19293d5bd9c4735fb3735d0b294a03f"
+    },
+    {
+      "path": "scripts/prepare_main_roads.py",
+      "bytes": 2066,
+      "sha256": "b8a037d71115b36a387ce3d03484afb8984b747ca0acba9cecece05931b8f35a"
+    },
+    {
+      "path": "scripts/prepare_screen.py",
+      "bytes": 3423,
+      "sha256": "dffc9c4cc4bddb70f9a64cc65d048f60dc5de257075e8b02cd4026641897edc4"
+    },
+    {
+      "path": "scripts/reproduce_discovery_v04.py",
+      "bytes": 1958,
+      "sha256": "74a981327f7692d8d123e36409ca5ba7bb785c457f309937be896f69f670256f"
+    },
+    {
+      "path": "scripts/reproduce_discovery_v05.py",
+      "bytes": 1055,
+      "sha256": "bd4f576af567434a933be876df0c0a45e61321a35bf6c0f3fd70e5e0e5d2e796"
+    },
+    {
+      "path": "scripts/reproduce_discovery_v06.py",
+      "bytes": 649,
+      "sha256": "5f5cad72b79e154820e5fe59ddc6f2220fb0d02f6978811b50867158e462c16f"
+    },
+    {
+      "path": "scripts/scope_school_conflicts.py",
+      "bytes": 7875,
+      "sha256": "4515da89bdeadb71041dfa84f98206990e2d73bfae4f2784d93d22b29c09ed8d"
+    },
+    {
+      "path": "scripts/screen_emergency_coordinate_conflicts.py",
+      "bytes": 5264,
+      "sha256": "643ae23ff407122c8bfb8c111d3e1f25e3b809f0e60e570f33fb30e27f836f69"
+    }
+  ]
+}

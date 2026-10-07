@@ -1,0 +1,19 @@
+{
+  "school_records": 24512,
+  "scored_tracts": 9794,
+  "by_region": {
+    "northern-ca": 1708,
+    "eastern-wa": 1127,
+    "maricopa-az": 3433,
+    "eastern-ok": 3048,
+    "south-central-tx": 15196
+  },
+  "candidate_pairs": 1245,
+  "candidate_tiers": {
+    "same_name_street_postcode": 27,
+    "similar_name_website_review": 1036,
+    "same_name_phone": 182
+  },
+  "candidate_records": 1223,
+  "warning": "Candidates are not confirmed errors; names, websites and phones can be shared across valid campuses."
+}

@@ -1,0 +1,122 @@
+{
+  "frozen_on": "2026-10-07",
+  "scope": "Discovery-only five-region school coordinate audit",
+  "overture_release": "2026-08-19.0",
+  "python": "3.11.0",
+  "dependencies": {
+    "duckdb": "1.4.4",
+    "pandas": "3.0.5",
+    "numpy": "2.4.6",
+    "requests": "2.34.2"
+  },
+  "selected_strata_fields": [
+    "GEOID",
+    "ur_class",
+    "pop_total",
+    "svi_covered",
+    "svi_overall",
+    "tribal_pct",
+    "usfs_covered",
+    "usfs_BP_mean"
+  ],
+  "data_attribution": "Humane Intelligence / Zindi / Radiant Earth challenge package; Census, CDC/ATSDR SVI, USFS and Overture Maps. Preserve source_README.md and per-place sources licenses/IDs.",
+  "files": [
+    {
+      "path": "data/screening/reference/eastern-ok/eastern-ok-overture-pois.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-ok/eastern-ok-overture-pois.parquet",
+      "bytes": 28848614,
+      "sha256": "1ab300aec153e52c781defaa1986ea3144950f557ed1894b14237a8d8e016290"
+    },
+    {
+      "path": "data/screening/reference/eastern-wa/eastern-wa-overture-pois.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/eastern-wa/eastern-wa-overture-pois.parquet",
+      "bytes": 10761396,
+      "sha256": "3babc61314e84203ce786a03258bd23b8635ac1a2c7a3db0d39914a8a2ac5a74"
+    },
+    {
+      "path": "data/screening/reference/maricopa-az/maricopa-az-overture-pois.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/maricopa-az/maricopa-az-overture-pois.parquet",
+      "bytes": 40987154,
+      "sha256": "9729146f70026f98d68cc47008cf679dd450e3378680c70090351572f8c3315f"
+    },
+    {
+      "path": "data/screening/reference/northern-ca/northern-ca-overture-pois.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/northern-ca/northern-ca-overture-pois.parquet",
+      "bytes": 16168720,
+      "sha256": "6318deb41156116c002f2bf0222e37b0ba758c1707fbf573da13afd32a482d6a"
+    },
+    {
+      "path": "data/screening/reference/south-central-tx/south-central-tx-overture-pois.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/reference/south-central-tx/south-central-tx-overture-pois.parquet",
+      "bytes": 179937096,
+      "sha256": "08728fee580c90179188b1cdf89818e080c64acd1a16958f5fa00d17aac3c6a9"
+    },
+    {
+      "path": "data/screening/strata/eastern-ok/eastern-ok-census-tracts.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-ok/eastern-ok-census-tracts.parquet",
+      "bytes": 5324978,
+      "sha256": "cffccf214028d124747de44fce3edff9acce0a43bf0efcf62727cb7cd7d57623"
+    },
+    {
+      "path": "data/screening/strata/eastern-ok/eastern-ok-strata-tract-table.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-ok/eastern-ok-strata-tract-table.parquet",
+      "bytes": 638464,
+      "sha256": "e82862b9d9db436410ad47df466e133df94df6328f6a138d5bd871b491ba0d54"
+    },
+    {
+      "path": "data/screening/strata/eastern-wa/eastern-wa-census-tracts.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-census-tracts.parquet",
+      "bytes": 3872070,
+      "sha256": "428ae8c2bcc8537493deea86c518bb91a5407c182916577ac7089b52dc752c16"
+    },
+    {
+      "path": "data/screening/strata/eastern-wa/eastern-wa-strata-tract-table.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/eastern-wa/eastern-wa-strata-tract-table.parquet",
+      "bytes": 266685,
+      "sha256": "997de038b4d2cab2129c8502c48aab1edc4016981a2ef0556d63ca1518cac737"
+    },
+    {
+      "path": "data/screening/strata/maricopa-az/maricopa-az-census-tracts.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/maricopa-az/maricopa-az-census-tracts.parquet",
+      "bytes": 5242171,
+      "sha256": "be3be05b7fcf77773d43a4d9b8ef18af44d1bdc840fd215b31329ad2b0bcfedd"
+    },
+    {
+      "path": "data/screening/strata/maricopa-az/maricopa-az-strata-tract-table.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/maricopa-az/maricopa-az-strata-tract-table.parquet",
+      "bytes": 793492,
+      "sha256": "f19ec2f5afd400827b2420a81916bdec95b08772badd85fdb250149c334a5fcd"
+    },
+    {
+      "path": "data/screening/strata/northern-ca/northern-ca-census-tracts.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-census-tracts.parquet",
+      "bytes": 4762054,
+      "sha256": "910e21ff039000dff13779051cd5d1ef62c0ea183ebdd7ff4170942fe5fb877d"
+    },
+    {
+      "path": "data/screening/strata/northern-ca/northern-ca-strata-tract-table.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/northern-ca/northern-ca-strata-tract-table.parquet",
+      "bytes": 354711,
+      "sha256": "7fc19dce5ca76ee94eb2006d9bd51bed71d5bfbcdf3ef756605e0998df940243"
+    },
+    {
+      "path": "data/screening/strata/south-central-tx/south-central-tx-census-tracts.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/south-central-tx/south-central-tx-census-tracts.parquet",
+      "bytes": 20580821,
+      "sha256": "7d64db287ed13d979197338e5d3702ba9f7ec4d1c563aff955bf6fe6bda6fc82"
+    },
+    {
+      "path": "data/screening/strata/south-central-tx/south-central-tx-strata-tract-table.parquet",
+      "url": "https://data.source.coop/humane-intelligence/bias-bounty-mapping-equity-challenge/strata/south-central-tx/south-central-tx-strata-tract-table.parquet",
+      "bytes": 2800838,
+      "sha256": "55589565024414f244ccbcadcc45a90860a3840ec9d8a4bdfa8a126c2128a354"
+    },
+    {
+      "path": "data/metadata/SampleSubmission.csv",
+      "url": "https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/data",
+      "bytes": 919898,
+      "sha256": "32fb5c2984317d4abf8a98b88b7bb9d16e9eef1cda9a954c37da0a2cdd367f40",
+      "note": "Latest platform download; sample target/component values are not used."
+    }
+  ]
+}

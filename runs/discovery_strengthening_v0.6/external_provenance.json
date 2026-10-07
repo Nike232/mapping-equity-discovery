@@ -1,0 +1,37 @@
+{
+  "purpose": "Best Bias Discovery only: one previously selected exact station-address conflict. No reference road/facility inventory, component or target reconstruction. Excluded from every main-board prediction.",
+  "sources": [
+    {
+      "url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress",
+      "params": {
+        "address": "13425 S Bryant Ave, Edmond, OK 73034",
+        "benchmark": "Public_AR_Current",
+        "format": "json"
+      },
+      "resolved_url": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=13425+S+Bryant+Ave%2C+Edmond%2C+OK+73034&benchmark=Public_AR_Current&format=json",
+      "retrieved_at_utc": "2026-10-07T13:16:04.532454+00:00",
+      "file": "runs/discovery_strengthening_v0.6/census_station_address.json",
+      "sha256": "30d0c830415f08b22c2c8f41b37d293416179f3a60c9d10bc85455f57ff9f99b"
+    }
+  ],
+  "license_basis": "Public-domain Census TIGER geospatial data; federal Census geocoder produces one address-range interpolation. Census explicitly describes TIGER as public domain. This is not a station-location inventory or current facility verification.",
+  "license_url": "https://www.census.gov/newsroom/archives/2014-pr/cb14-208.html",
+  "api_documentation_url": "https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html",
+  "limitations_url": "https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/census-geocoder.html",
+  "accessed_on": "2026-10-07",
+  "scope": "One supplied address only. MAF/TIGER underlies this Discovery-only geocode; no TIGER road layer is downloaded or measured, and no data is used for the main-board target.",
+  "usfa_registry": {
+    "url": "https://apps.usfa.fema.gov/registry/api/download/national?cacheKey=1791378526054",
+    "page_url": "https://apps.usfa.fema.gov/registry/download",
+    "retrieved_at_utc": "2026-10-07T13:22:02.764567+00:00",
+    "original_download_bytes": 8831230,
+    "original_download_sha256": "ee74d57e895c48940e8a647eb9a8411c1033be07856f9b3e3821e1af8cd088b9",
+    "file": "runs/discovery_strengthening_v0.6/usfa_selected_department.json",
+    "sha256": "5b26dd765a66fa4c15878d4f9698887e8fc43d63a0b1c1864a40e5f91598352d",
+    "selection": "Exact OK FDID 42011, previously matched by name and shared supplied HQ address/ZIP/phone. FDIDs are state-specific. Trimmed header/value whitespace only; retain 11 institution fields.",
+    "permission_basis": "FEMA's official-sites page lists USFA and says most FEMA material is copyright-free and may be copied/distributed without permission, except credited restricted content. No separate copyright notice was observed in this official registry CSV. This basis is specific to the FEMA publication policy, not a blanket inference from a .gov URL; preserve source/date/attribution.",
+    "permission_url": "https://www.fema.gov/about/website-information",
+    "permission_evidence_file": "runs/discovery_strengthening_v0.6/fema_reuse_policy.json",
+    "no_endorsement": "USFA/FEMA did not endorse this discovery or validate our location interpretation."
+  }
+}

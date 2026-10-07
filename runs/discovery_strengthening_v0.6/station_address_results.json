@@ -1,0 +1,48 @@
+{
+  "shared_supplied_address": "13425 S Bryant Ave, Edmond, OK 73034",
+  "matched_address": "13425 S BRYANT RD, EDMOND, OK, 73034",
+  "usfa_department_record": {
+    "FDID": "42011",
+    "Fire dept name": "Oak Cliff Fire Protection District",
+    "HQ addr1": "13425 S Bryant AVE",
+    "HQ addr2": "",
+    "HQ city": "Edmond",
+    "HQ state": "OK",
+    "HQ zip": "73034-8110",
+    "HQ phone": "405-340-9115",
+    "County": "Oklahoma",
+    "Dept Type": "Mostly volunteer",
+    "Organization Type": "Local (includes career, combination, and volunteer fire departments and fire districts)"
+  },
+  "registry_role": "Registered local fire-protection district, mostly volunteer; HQ address, ZIP and phone match both supplied Station 1 identities. Registry validates department identity/HQ address, not numbered Station 1 geometry or active 2026 service.",
+  "match_caveat": "Supplied street suffix AVE standardized to RD; preserve both. Coordinates are interpolated along an address range, which can include numbers without actual structures.",
+  "benchmark": {
+    "isDefault": true,
+    "benchmarkDescription": "Public Address Ranges - Current Benchmark",
+    "id": "4",
+    "benchmarkName": "Public_AR_Current"
+  },
+  "census_address_point": {
+    "lon": -97.460511208045,
+    "lat": 35.740543829922
+  },
+  "census_point_supplied_tract_matches": [
+    {
+      "GEOID": "40083600401",
+      "ur_class": "Urban",
+      "pop_total": 6015,
+      "svi_overall": 0.1398
+    }
+  ],
+  "suspect_id": "2e36387b-2cd4-40c6-9e05-3cdc293d772d",
+  "comparator_id": "e4c428e3-3960-462f-97c4-0c020b226ac2",
+  "suspect_to_census_address_km": 6.533986,
+  "comparator_to_census_address_km": 0.120234,
+  "suspect_tract": "40083600802",
+  "suspect_urbanity": "Rural",
+  "fire_labels_before": 1,
+  "fire_labels_after_individual_quarantine": 0,
+  "inference": "Independent address-range evidence corroborates the Bryant-area comparator and contradicts the rural Western/Simmons point. It strengthens address-location consistency, not a surveyed station point or an observed dispatch failure.",
+  "operational_application": "Before staging or mutual-aid mapping treats a supplied Station 1 identity as a local base, reconcile its shared address with its point and verify current facility status. Do not add a new station from this geocode or assume a tract has no fire service.",
+  "no_claims": "No verified physical station coordinates, route/time, active service boundary, harmed population or actual misdispatch. No main-board prediction or submission."
+}

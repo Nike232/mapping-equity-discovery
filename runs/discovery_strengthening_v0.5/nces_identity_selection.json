@@ -1,0 +1,110 @@
+{
+  "displayFieldName": "Public_Schools_2025_CCD_Final.LEA_Name",
+  "fieldAliases": {
+    "Public_Schools_2025_CCD_Final.NCESSCH": "Unique School ID",
+    "Public_Schools_2025_CCD_Final.SURVYEAR": "Year Corresponding to Survey Record",
+    "Public_Schools_2025_CCD_Final.SCH_NAME": "School Name",
+    "Public_Schools_2025_CCD_Final.LSTREET1": "Location Address, street 1 ",
+    "Public_Schools_2025_CCD_Final.LCITY": "Location City ",
+    "Public_Schools_2025_CCD_Final.LSTATE": "Location State",
+    "Public_Schools_2025_CCD_Final.LZIP": "Location 5 digit ZIP code",
+    "Public_Schools_2025_CCD_Final.PHONE": "PHONE",
+    "Public_Schools_2025_CCD_Final.MEMBER": "Total elelmentary/secondary students, All Grades (excludes AE)"
+  },
+  "fields": [
+    {
+      "name": "Public_Schools_2025_CCD_Final.NCESSCH",
+      "type": "esriFieldTypeString",
+      "alias": "Unique School ID",
+      "length": 12
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.SURVYEAR",
+      "type": "esriFieldTypeString",
+      "alias": "Year Corresponding to Survey Record",
+      "length": 9
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.SCH_NAME",
+      "type": "esriFieldTypeString",
+      "alias": "School Name",
+      "length": 60
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.LSTREET1",
+      "type": "esriFieldTypeString",
+      "alias": "Location Address, street 1 ",
+      "length": 255
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.LCITY",
+      "type": "esriFieldTypeString",
+      "alias": "Location City ",
+      "length": 255
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.LSTATE",
+      "type": "esriFieldTypeString",
+      "alias": "Location State",
+      "length": 255
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.LZIP",
+      "type": "esriFieldTypeString",
+      "alias": "Location 5 digit ZIP code",
+      "length": 255
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.PHONE",
+      "type": "esriFieldTypeString",
+      "alias": "PHONE",
+      "length": 255
+    },
+    {
+      "name": "Public_Schools_2025_CCD_Final.MEMBER",
+      "type": "esriFieldTypeInteger",
+      "alias": "Total elelmentary/secondary students, All Grades (excludes AE)"
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "Public_Schools_2025_CCD_Final.NCESSCH": "061653002087",
+        "Public_Schools_2025_CCD_Final.SURVYEAR": "2024-2025",
+        "Public_Schools_2025_CCD_Final.SCH_NAME": "Happy Camp Union Elementary",
+        "Public_Schools_2025_CCD_Final.LSTREET1": "114 Park Way",
+        "Public_Schools_2025_CCD_Final.LCITY": "Happy Camp",
+        "Public_Schools_2025_CCD_Final.LSTATE": "CA ",
+        "Public_Schools_2025_CCD_Final.LZIP": "96039",
+        "Public_Schools_2025_CCD_Final.PHONE": "(530) 493-2267",
+        "Public_Schools_2025_CCD_Final.MEMBER": 79
+      }
+    },
+    {
+      "attributes": {
+        "Public_Schools_2025_CCD_Final.NCESSCH": "063694006277",
+        "Public_Schools_2025_CCD_Final.SURVYEAR": "2024-2025",
+        "Public_Schools_2025_CCD_Final.SCH_NAME": "Happy Camp High",
+        "Public_Schools_2025_CCD_Final.LSTREET1": "234 Indian Creek Rd.",
+        "Public_Schools_2025_CCD_Final.LCITY": "Happy Camp",
+        "Public_Schools_2025_CCD_Final.LSTATE": "CA ",
+        "Public_Schools_2025_CCD_Final.LZIP": "96039",
+        "Public_Schools_2025_CCD_Final.PHONE": "(530) 493-2697",
+        "Public_Schools_2025_CCD_Final.MEMBER": 41
+      }
+    },
+    {
+      "attributes": {
+        "Public_Schools_2025_CCD_Final.NCESSCH": "481281006371",
+        "Public_Schools_2025_CCD_Final.SURVYEAR": "2024-2025",
+        "Public_Schools_2025_CCD_Final.SCH_NAME": "LAKEVIEW EL",
+        "Public_Schools_2025_CCD_Final.LSTREET1": "6407 LAIR RD",
+        "Public_Schools_2025_CCD_Final.LCITY": "AMARILLO",
+        "Public_Schools_2025_CCD_Final.LSTATE": "TX ",
+        "Public_Schools_2025_CCD_Final.LZIP": "79118",
+        "Public_Schools_2025_CCD_Final.PHONE": "(806) 677-2830",
+        "Public_Schools_2025_CCD_Final.MEMBER": 388
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "question": "Can the school-coordinate finding be extended to direct emergency-service labels?",
+  "categories": [
+    "fire_department",
+    "ambulance_and_ems_services"
+  ],
+  "unique_records": 4387,
+  "category_counts": {
+    "fire_department": 3613,
+    "ambulance_and_ems_services": 774
+  },
+  "grid_flags": 0,
+  "address_state_mismatch_flags": 0,
+  "identity_pairs_at_least_5km": 14,
+  "status": "Directed candidate screen only. No external data, targets, predictions, or confirmed errors."
+}

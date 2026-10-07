@@ -1,0 +1,39 @@
+{
+  "retrieved_at_utc": "2026-10-07T12:04:42.348007+00:00",
+  "purpose": "Best Bias Discovery only: eight previously reviewed identities, location comparison and enrolment context. Excluded from all scored predictions.",
+  "license": "Public domain, explicitly stated in NCES EDGE layer description and item metadata",
+  "selection": "Eight exact school IDs manually matched in v0.3 before retrieving coordinates; not a random sample or a complete error inventory.",
+  "sources": [
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query",
+      "params": {
+        "f": "pjson",
+        "where": "Public_Schools_2025_CCD_Final.NCESSCH IN ('480001013567','481623001353','482566002874','063694006277','063694006278','530393000750','484008004549','402277001139')",
+        "outFields": "Public_Schools_2025_CCD_Final.NCESSCH,Public_Schools_2025_CCD_Final.SURVYEAR,Public_Schools_2025_CCD_Final.SCH_NAME,Public_Schools_2025_CCD_Final.LSTREET1,Public_Schools_2025_CCD_Final.LCITY,Public_Schools_2025_CCD_Final.LSTATE,Public_Schools_2025_CCD_Final.LZIP,Public_Schools_2025_CCD_Final.PHONE,Public_Schools_2025_CCD_Final.LATCOD,Public_Schools_2025_CCD_Final.LONCOD,Public_Schools_2025_CCD_Final.MEMBER,Public_Schools_2025_CCD_Final.TOTAL,Public_Schools_2025_CCD_Final.SY_STATUS_TEXT,Public_Schools_2025_CCD_Final.VIRTUAL",
+        "returnGeometry": "true",
+        "outSR": "4326"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/query?f=pjson&where=Public_Schools_2025_CCD_Final.NCESSCH+IN+%28%27480001013567%27%2C%27481623001353%27%2C%27482566002874%27%2C%27063694006277%27%2C%27063694006278%27%2C%27530393000750%27%2C%27484008004549%27%2C%27402277001139%27%29&outFields=Public_Schools_2025_CCD_Final.NCESSCH%2CPublic_Schools_2025_CCD_Final.SURVYEAR%2CPublic_Schools_2025_CCD_Final.SCH_NAME%2CPublic_Schools_2025_CCD_Final.LSTREET1%2CPublic_Schools_2025_CCD_Final.LCITY%2CPublic_Schools_2025_CCD_Final.LSTATE%2CPublic_Schools_2025_CCD_Final.LZIP%2CPublic_Schools_2025_CCD_Final.PHONE%2CPublic_Schools_2025_CCD_Final.LATCOD%2CPublic_Schools_2025_CCD_Final.LONCOD%2CPublic_Schools_2025_CCD_Final.MEMBER%2CPublic_Schools_2025_CCD_Final.TOTAL%2CPublic_Schools_2025_CCD_Final.SY_STATUS_TEXT%2CPublic_Schools_2025_CCD_Final.VIRTUAL&returnGeometry=true&outSR=4326",
+      "file": "runs/discovery_strengthening_v0.4/nces_selected_school_locations.json",
+      "sha256": "f681572cc2b88b9c450d807ea2c9c39ec6d17a72c599a93bd5dd3758d2047e3d"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0",
+      "params": {
+        "f": "pjson"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0?f=pjson",
+      "file": "runs/discovery_strengthening_v0.4/nces_layer_metadata.json",
+      "sha256": "d9fded2ad109ab0f381010a78d510f5b57b62daf925b5780ba60f22ad3f2b90a"
+    },
+    {
+      "url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/iteminfo",
+      "params": {
+        "f": "pjson"
+      },
+      "resolved_url": "https://nces.ed.gov/arcgis/rest/services/CCD/CCD_Data/MapServer/0/iteminfo?f=pjson",
+      "file": "runs/discovery_strengthening_v0.4/nces_item_metadata.json",
+      "sha256": "5f03c38f5da1f74910f6b606fb0654d3674c4c2f84854c74886e04684f80cce1"
+    }
+  ]
+}

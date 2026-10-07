@@ -1,0 +1,33 @@
+{
+  "culture": "en-US",
+  "name": "",
+  "guid": "",
+  "catalogPath": "",
+  "snippet": "Point locations of public elementary and secondary schools from the 2024-2025 Common Core of Data created by the National Center for Education Statistics' (NCES) Education Demographic and Geographic Estimates (EDGE) program.",
+  "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>The National Center for Education Statistics’ (NCES) Education Demographic and Geographic Estimate (EDGE) program develops annually updated point locations (latitude and longitude) for public elementary and secondary schools included in the NCES Common Core of Data (CCD). The CCD is an annual collection of basic administrative characteristics that includes the physical address for all public schools, school districts, and state education agencies in the United States. The NCES EDGE program collaborates with the U.S. Census Bureau’s Education Demographic, Geographic, and Economic Statistics (EDGE) Branch to develop point locations for schools and school district administrative offices based on these addresses. The point locations in this data layer were developed from the 2024-2025 CCD collection. For more information about NCES school point data, see: https://nces.ed.gov/programs/edge/Geographic/SchoolLocations.</SPAN></P><P><SPAN>All information contained in this file is in the public domain. Data users are advised to review NCES program documentation and feature class metadata to understand the limitations and appropriate use of these data.</SPAN></P></DIV></DIV></DIV>",
+  "summary": "Point locations of public elementary and secondary schools from the 2024-2025 Common Core of Data created by the National Center for Education Statistics' (NCES) Education Demographic and Geographic Estimates (EDGE) program.",
+  "title": "Public_Schools_2025_CCD_Final",
+  "tags": [
+    "Common Core of Data",
+    "CCD",
+    "Public Schools",
+    "National Center for Education Statistics",
+    "NCES",
+    "Public School Locations",
+    "U.S. Census Bureau",
+    "Education Demographic and Geographic Estimates Program",
+    "EDGE",
+    "Points",
+    "United States"
+  ],
+  "type": "",
+  "typeKeywords": [],
+  "thumbnail": "",
+  "url": "",
+  "minScale": 150000000,
+  "maxScale": 5000,
+  "spatialReference": "",
+  "accessInformation": "NCES EDGE",
+  "licenseInfo": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>https://www.usa.gov/publicdomain/label/1.0/</SPAN></P></DIV></DIV></DIV>",
+  "portalUrl": ""
+}
