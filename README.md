@@ -1,6 +1,6 @@
 # Mapping Equity — Best Bias Discovery v0.6
 
-Participant **tomfng**; associated accepted numerical entry **2cQVvovS**. Published 7 October 2026 for consideration; **valid award delivery has not been confirmed**.
+Participant **tomfng**; associated accepted numerical entry **2cQVvovS**. Published 7 October 2026 for consideration. The entry-association workflow and tie-break timestamp remain unclear; the inspected rules require no separate submission or individual acknowledgement. No award eligibility decision or result is claimed.
 
 Read the [full methodology](https://github.com/Nike232/mapping-equity-discovery/blob/main/runs/discovery_strengthening_v0.6/discovery_writeup_v0.6.md), [public methodology post](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/discussions/35243) and [publication/reproduction record](https://github.com/Nike232/mapping-equity-discovery/blob/main/DELIVERY.md). This repository/package contains the Discovery evidence and the separate, already accepted all-zero numerical entry. The evidence is not a new main-board prediction.
 
@@ -47,4 +47,4 @@ Preserve [source attribution and terms](https://github.com/Nike232/mapping-equit
 
 ## Delivery
 
-The associated numerical entry **2cQVvovS** was accepted with public RMSE **0.107246299**. No new official score or award result is claimed. The methodology/package and [Zindi post 35243](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/discussions/35243) are public. The post asks organisers to confirm receipt, eligibility and timestamp, or identify the required channel. The methodology's effective delivery channel and tie-break timestamp remain unconfirmed; public availability alone does not establish valid award delivery.
+The associated numerical entry **2cQVvovS** was accepted with public RMSE **0.107246299**. No new official score or award result is claimed. The methodology/package and [Zindi post 35243](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/discussions/35243) are public. The post asks organisers to clarify the intended association workflow and timestamp. An individual acknowledgement is not a stated requirement, and a missing reply does not establish invalid delivery. See [DELIVERY.md](https://github.com/Nike232/mapping-equity-discovery/blob/main/DELIVERY.md) for the 7 October rule check, other participants' observed practice and verified numerical/selection deadlines.
