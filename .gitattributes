@@ -1,0 +1,2 @@
+# Preserve frozen response bytes and SHA-256 values across Git checkouts.
+* -text
