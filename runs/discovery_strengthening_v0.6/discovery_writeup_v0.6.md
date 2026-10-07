@@ -1,6 +1,8 @@
 # Best Bias Discovery — Facility identities assigned to the wrong rural communities
 
-**Participant:** tomfng · **Version:** 0.6, 7 October 2026 · **Associated accepted numerical entry:** `2cQVvovS` · **Status:** prepared for review; not formally delivered.
+**Participant:** tomfng · **Version:** 0.6, 7 October 2026 · **Associated accepted numerical entry:** `2cQVvovS` · **Status:** publicly published for consideration; valid award delivery awaits organiser confirmation.
+
+[Public methodology post](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/discussions/35243) · [Fixed review archive](https://github.com/Nike232/mapping-equity-discovery/releases/tag/v0.6) · [Publication and reproduction record](https://github.com/Nike232/mapping-equity-discovery/blob/main/DELIVERY.md). Publication metadata is updated here; findings and frozen numerical evidence remain v0.6.
 
 ## Finding
 
@@ -115,4 +117,6 @@ Preserve attribution and source terms: Humane Intelligence / Zindi / Radiant Ear
 
 ## Entry and delivery
 
-Associated accepted numerical entry **2cQVvovS**, all-zero baseline, public RMSE **0.107246299**, has its separate code/methodology bundled. No external evidence enters it or later main-board experiments. No award score or prize is claimed. The rules judge special prizes from an entry's methodology. The effective delivery channel/timestamp remains unconfirmed; our authorised clarification thread 35240 still showed 0 replies on 7 October. This open-source core is prepared, not formally delivered. Earlier submission only matters after valid delivery is established.
+Associated accepted numerical entry **2cQVvovS**, all-zero baseline, public RMSE **0.107246299**, has its separate code/methodology bundled. No external evidence enters it or later main-board experiments. No award score or prize is claimed. With explicit participant authorisation, this methodology and its public repository/release were published. [Discussion 35243](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge/discussions/35243) links them to the accepted entry and asks organisers to confirm receipt, eligibility, effective channel and timestamp.
+
+The original release was published on 7 October 2026 at **21:40:07 Asia/Shanghai (13:40:07 UTC)**; the post action occurred at **21:44:37–21:44:38 Asia/Shanghai**. Its page displays 21:44 without an explicit zone label. The last publication check found 0 replies. **Valid award delivery and its tie-break timestamp remain unconfirmed.** The fixed ZIP retains the pre-publication snapshot; this current document updates delivery status only. [DELIVERY.md](https://github.com/Nike232/mapping-equity-discovery/blob/main/DELIVERY.md) records the original hash, pinned code and reproduction boundaries. Earlier publication matters for judging only if organisers recognise it as valid delivery.

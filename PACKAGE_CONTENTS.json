@@ -1,5 +1,10 @@
 {
   "version": "0.6",
+  "scope": "Immutable original release archive and tag v0.6; listed documentation hashes describe the freeze, not subsequent documentation updates on main. Evidence files remain unchanged.",
+  "archive_url": "https://github.com/Nike232/mapping-equity-discovery/releases/download/v0.6/mapping_equity_discovery_v0.6_review.zip",
+  "archive_sha256": "23aa7411731445312eff97244bcf4ece3a045279460269e78ae79fec9889a39a",
+  "freeze_git_tag": "v0.6",
+  "freeze_git_commit": "385053825e1122092258c93d9e68ecd002d359b3",
   "variant": "Discovery evidence core with independently registered emergency institution",
   "associated_entry": "2cQVvovS",
   "status_at_freeze": "prepared; not published or formally delivered",
